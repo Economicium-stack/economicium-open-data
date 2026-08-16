@@ -1,0 +1,62 @@
+name: Refresh datasets
+
+# Pulls the published CSVs from economicium.com and commits anything that
+# changed. The site is the source of truth: it bakes each dataset from the
+# original agency on its own schedule, so this repo only mirrors the result.
+# That keeps the two from drifting and means no credentials are needed here.
+
+on:
+  schedule:
+    - cron: '23 7 * * 1' # Mondays 07:23 UTC, after the site's own Monday bake
+  workflow_dispatch: # allow a manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download published CSVs
+        run: |
+          set -euo pipefail
+          mkdir -p data
+          # Derive the file list from the site's own data hub rather than
+          # hardcoding it, so a dataset added upstream appears here on its own.
+          curl -sSf https://economicium.com/data/ \
+            | grep -oE 'href="/data/[a-z0-9-]+\.csv"' \
+            | sed -E 's|href="/data/||; s|"$||' \
+            | sort -u > /tmp/files.txt
+          test -s /tmp/files.txt || { echo "No CSVs found on the hub, aborting"; exit 1; }
+          echo "Found $(wc -l < /tmp/files.txt) datasets"
+          while read -r f; do
+            echo "  $f"
+            curl -sSf "https://economicium.com/data/$f" -o "data/$f"
+          done < /tmp/files.txt
+
+      - name: Sanity check
+        run: |
+          set -euo pipefail
+          # A truncated or error-page download would otherwise be committed
+          # silently, so refuse anything that is not a plausible CSV.
+          for f in data/*.csv; do
+            lines=$(wc -l < "$f")
+            [ "$lines" -ge 2 ] || { echo "$f has $lines lines, aborting"; exit 1; }
+            head -1 "$f" | grep -q ',' || { echo "$f has no header row, aborting"; exit 1; }
+          done
+          echo "All $(ls data/*.csv | wc -l) files look sane"
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          git config user.name 'economicium-bot'
+          git config user.email 'contact@economicium.com'
+          if git diff --quiet -- data; then
+            echo "No changes"
+            exit 0
+          fi
+          git add data
+          git commit -m "chore: refresh datasets from economicium.com"
+          git push

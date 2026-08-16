@@ -1,0 +1,233 @@
+date,time_utc,title,country,impact
+2026-08-11,04:30,RBA Rate Decision,Australia,high
+2026-08-12,12:30,US CPI (Consumer Price Index),United States,high
+2026-08-13,07:00,Spain: Consumer Price Index. July 2026,Spain,high
+2026-08-13,12:30,US PPI (Producer Price Index),United States,medium
+2026-08-13,12:30,US Initial Jobless Claims,United States,high
+2026-08-14,12:30,US Retail Sales,United States,high
+2026-08-14,14:00,US Business Inventories,United States,low
+2026-08-16,23:50,Japan GDP (First Preliminary),Japan,high
+2026-08-17,12:30,Canada CPI (Consumer Price Index),Canada,high
+2026-08-18,12:30,US Housing Starts (New Residential Construction),United States,medium
+2026-08-18,13:15,US Industrial Production,United States,medium
+2026-08-19,01:30,Australia Wage Price Index,Australia,medium
+2026-08-20,01:30,Australia Labour Force (Employment),Australia,high
+2026-08-20,12:30,US Initial Jobless Claims,United States,high
+2026-08-20,23:30,Japan CPI (National),Japan,high
+2026-08-25,12:30,US Housing Starts (New Residential Construction),United States,medium
+2026-08-25,14:00,US New Home Sales,United States,medium
+2026-08-26,01:30,Australia CPI (Consumer Price Index),Australia,high
+2026-08-26,12:30,US GDP (Gross Domestic Product),United States,high
+2026-08-26,12:30,US PCE Inflation (Personal Income and Outlays),United States,high
+2026-08-27,12:30,US Initial Jobless Claims,United States,high
+2026-08-27,23:30,"Japan CPI (Tokyo, advance)",Japan,medium
+2026-08-28,07:00,Spain: Retail Trade Indices. July 2026,Spain,medium
+2026-08-28,07:00,Spain: Consumer Price Index. Avance. Agosto 2026,Spain,high
+2026-08-28,08:00,Germany Unemployment (Federal Employment Agency),Germany,medium
+2026-08-28,12:30,Canada GDP,Canada,high
+2026-09-01,14:00,US JOLTS Job Openings,United States,medium
+2026-09-02,02:00,RBNZ Rate Decision (OCR),New Zealand,high
+2026-09-02,13:45,BoC Rate Decision,Canada,high
+2026-09-03,12:30,US Initial Jobless Claims,United States,high
+2026-09-03,12:30,US International Trade Balance,United States,medium
+2026-09-04,12:30,US Nonfarm Payrolls (Employment Situation),United States,high
+2026-09-04,12:30,Canada Labour Force Survey (Employment),Canada,high
+2026-09-07,23:50,Japan GDP (Second Preliminary),Japan,medium
+2026-09-08,19:00,US Consumer Credit (G.19),United States,low
+2026-09-10,07:00,Spain: Industrial Production Index. July 2026,Spain,medium
+2026-09-10,12:15,ECB Rate Decision,Euro Area,high
+2026-09-10,12:30,US PPI (Producer Price Index),United States,medium
+2026-09-10,12:30,US Initial Jobless Claims,United States,high
+2026-09-11,12:30,US CPI (Consumer Price Index),United States,high
+2026-09-14,12:30,Canada CPI (Consumer Price Index),Canada,high
+2026-09-15,07:00,Spain: Consumer Price Index. August 2026,Spain,high
+2026-09-16,12:30,US Retail Sales,United States,high
+2026-09-16,14:00,US Business Inventories,United States,low
+2026-09-16,18:00,FOMC Rate Decision,United States,high
+2026-09-17,11:00,BoE Rate Decision (Bank Rate),United Kingdom,high
+2026-09-17,12:30,US Initial Jobless Claims,United States,high
+2026-09-17,12:30,US Housing Starts (New Residential Construction),United States,medium
+2026-09-17,23:30,Japan CPI (National),Japan,high
+2026-09-18,03:00,BoJ Rate Decision,Japan,high
+2026-09-18,13:15,US Industrial Production,United States,medium
+2026-09-24,07:30,SNB Policy Rate Decision,Switzerland,high
+2026-09-24,12:30,US Initial Jobless Claims,United States,high
+2026-09-24,12:30,US Housing Starts (New Residential Construction),United States,medium
+2026-09-24,14:00,US New Home Sales,United States,medium
+2026-09-25,07:00,Spain: Quarterly Spanish National Accounts. Quarter 2/2026,Spain,high
+2026-09-29,04:30,RBA Rate Decision,Australia,high
+2026-09-29,07:00,Spain: Retail Trade Indices. August 2026,Spain,medium
+2026-09-29,07:00,Spain: Consumer Price Index. Avance. Septiembre 2026,Spain,high
+2026-09-29,12:30,Canada GDP,Canada,high
+2026-09-29,14:00,US JOLTS Job Openings,United States,medium
+2026-09-30,08:00,Germany Unemployment (Federal Employment Agency),Germany,medium
+2026-09-30,12:30,US GDP (Gross Domestic Product),United States,high
+2026-09-30,12:30,US PCE Inflation (Personal Income and Outlays),United States,high
+2026-10-01,12:30,US Initial Jobless Claims,United States,high
+2026-10-01,23:30,"Japan CPI (Tokyo, advance)",Japan,medium
+2026-10-02,12:30,US Nonfarm Payrolls (Employment Situation),United States,high
+2026-10-06,07:00,Spain: Industrial Production Index. August 2026,Spain,medium
+2026-10-06,12:30,US International Trade Balance,United States,medium
+2026-10-07,19:00,US Consumer Credit (G.19),United States,low
+2026-10-08,12:30,US Initial Jobless Claims,United States,high
+2026-10-09,12:30,Canada Labour Force Survey (Employment),Canada,high
+2026-10-14,07:00,Spain: Consumer Price Index. September 2026,Spain,high
+2026-10-14,12:30,US CPI (Consumer Price Index),United States,high
+2026-10-15,12:30,US PPI (Producer Price Index),United States,medium
+2026-10-15,12:30,US Initial Jobless Claims,United States,high
+2026-10-15,12:30,US Retail Sales,United States,high
+2026-10-15,14:00,US Business Inventories,United States,low
+2026-10-16,13:15,US Industrial Production,United States,medium
+2026-10-19,12:30,Canada CPI (Consumer Price Index),Canada,high
+2026-10-20,12:30,US Housing Starts (New Residential Construction),United States,medium
+2026-10-22,12:30,US Initial Jobless Claims,United States,high
+2026-10-22,23:30,Japan CPI (National),Japan,high
+2026-10-27,08:00,Spain: Economically Active Population Survey. Quarter 3/2026,Spain,high
+2026-10-27,12:30,US Housing Starts (New Residential Construction),United States,medium
+2026-10-27,14:00,US New Home Sales,United States,medium
+2026-10-28,01:00,RBNZ Rate Decision (OCR),New Zealand,high
+2026-10-28,13:45,BoC Rate Decision,Canada,high
+2026-10-28,18:00,FOMC Rate Decision,United States,high
+2026-10-29,08:00,Spain: Retail Trade Indices. September 2026,Spain,medium
+2026-10-29,12:30,US GDP (Gross Domestic Product),United States,high
+2026-10-29,12:30,US PCE Inflation (Personal Income and Outlays),United States,high
+2026-10-29,12:30,US Initial Jobless Claims,United States,high
+2026-10-29,13:15,ECB Rate Decision,Euro Area,high
+2026-10-29,23:30,"Japan CPI (Tokyo, advance)",Japan,medium
+2026-10-30,03:00,BoJ Rate Decision,Japan,high
+2026-10-30,08:00,Spain: Consumer Price Index. Avance. Octubre 2026,Spain,high
+2026-10-30,08:00,Spain: Quarterly Spanish National Accounts. Preview. Quarter 3/2026,Spain,high
+2026-10-30,09:00,Germany Unemployment (Federal Employment Agency),Germany,medium
+2026-10-30,12:30,US Employment Cost Index,United States,medium
+2026-10-30,12:30,Canada GDP,Canada,high
+2026-11-03,03:30,RBA Rate Decision,Australia,high
+2026-11-03,15:00,US JOLTS Job Openings,United States,medium
+2026-11-04,13:30,US International Trade Balance,United States,medium
+2026-11-05,12:00,BoE Rate Decision (Bank Rate),United Kingdom,high
+2026-11-05,13:30,US Initial Jobless Claims,United States,high
+2026-11-06,08:00,Spain: Industrial Production Index. September 2026,Spain,medium
+2026-11-06,13:30,US Nonfarm Payrolls (Employment Situation),United States,high
+2026-11-06,13:30,Canada Labour Force Survey (Employment),Canada,high
+2026-11-06,20:00,US Consumer Credit (G.19),United States,low
+2026-11-10,13:30,US CPI (Consumer Price Index),United States,high
+2026-11-12,13:30,US Initial Jobless Claims,United States,high
+2026-11-13,08:00,Spain: Consumer Price Index. October 2026,Spain,high
+2026-11-13,13:30,US PPI (Producer Price Index),United States,medium
+2026-11-15,23:50,Japan GDP (First Preliminary),Japan,high
+2026-11-16,13:30,Canada CPI (Consumer Price Index),Canada,high
+2026-11-17,13:30,US Retail Sales,United States,high
+2026-11-17,14:15,US Industrial Production,United States,medium
+2026-11-17,15:00,US Business Inventories,United States,low
+2026-11-18,13:30,US Housing Starts (New Residential Construction),United States,medium
+2026-11-19,13:30,US Initial Jobless Claims,United States,high
+2026-11-19,23:30,Japan CPI (National),Japan,high
+2026-11-25,13:30,US GDP (Gross Domestic Product),United States,high
+2026-11-25,13:30,US PCE Inflation (Personal Income and Outlays),United States,high
+2026-11-25,13:30,US Initial Jobless Claims,United States,high
+2026-11-25,13:30,US Housing Starts (New Residential Construction),United States,medium
+2026-11-25,15:00,US New Home Sales,United States,medium
+2026-11-26,23:30,"Japan CPI (Tokyo, advance)",Japan,medium
+2026-11-27,08:00,Spain: Retail Trade Indices. October 2026,Spain,medium
+2026-11-27,08:00,Spain: Consumer Price Index. Avance. Noviembre 2026,Spain,high
+2026-11-27,09:00,Germany Unemployment (Federal Employment Agency),Germany,medium
+2026-11-30,13:30,Canada GDP,Canada,high
+2026-12-01,15:00,US JOLTS Job Openings,United States,medium
+2026-12-03,13:30,US Initial Jobless Claims,United States,high
+2026-12-04,08:00,Spain: Industrial Production Index. October 2026,Spain,medium
+2026-12-04,13:30,US Nonfarm Payrolls (Employment Situation),United States,high
+2026-12-04,13:30,Canada Labour Force Survey (Employment),Canada,high
+2026-12-07,20:00,US Consumer Credit (G.19),United States,low
+2026-12-07,23:50,Japan GDP (Second Preliminary),Japan,medium
+2026-12-08,03:30,RBA Rate Decision,Australia,high
+2026-12-08,13:30,US International Trade Balance,United States,medium
+2026-12-09,01:00,RBNZ Rate Decision (OCR),New Zealand,high
+2026-12-09,14:45,BoC Rate Decision,Canada,high
+2026-12-09,19:00,FOMC Rate Decision,United States,high
+2026-12-10,08:30,SNB Policy Rate Decision,Switzerland,high
+2026-12-10,13:30,US CPI (Consumer Price Index),United States,high
+2026-12-10,13:30,US Initial Jobless Claims,United States,high
+2026-12-14,13:30,Canada CPI (Consumer Price Index),Canada,high
+2026-12-15,08:00,Spain: Consumer Price Index. November 2026,Spain,high
+2026-12-15,13:30,US PPI (Producer Price Index),United States,medium
+2026-12-16,13:30,US Retail Sales,United States,high
+2026-12-16,14:15,US Industrial Production,United States,medium
+2026-12-16,15:00,US Business Inventories,United States,low
+2026-12-17,12:00,BoE Rate Decision (Bank Rate),United Kingdom,high
+2026-12-17,13:15,ECB Rate Decision,Euro Area,high
+2026-12-17,13:30,US Initial Jobless Claims,United States,high
+2026-12-17,13:30,US Housing Starts (New Residential Construction),United States,medium
+2026-12-17,23:30,Japan CPI (National),Japan,high
+2026-12-18,03:00,BoJ Rate Decision,Japan,high
+2026-12-23,08:00,Spain: Quarterly Spanish National Accounts. Quarter 3/2026,Spain,high
+2026-12-23,13:30,US GDP (Gross Domestic Product),United States,high
+2026-12-23,13:30,US PCE Inflation (Personal Income and Outlays),United States,high
+2026-12-23,13:30,US Housing Starts (New Residential Construction),United States,medium
+2026-12-23,13:30,Canada GDP,Canada,high
+2026-12-23,15:00,US New Home Sales,United States,medium
+2026-12-24,13:30,US Initial Jobless Claims,United States,high
+2026-12-24,23:30,"Japan CPI (Tokyo, advance)",Japan,medium
+2026-12-30,08:00,Spain: Retail Trade Indices. November 2026,Spain,medium
+2026-12-30,08:00,Spain: Consumer Price Index. Avance. Diciembre 2026,Spain,high
+2026-12-31,13:30,US Initial Jobless Claims,United States,high
+2027-01-05,09:00,Germany Unemployment (Federal Employment Agency),Germany,medium
+2027-01-08,13:30,Canada Labour Force Survey (Employment),Canada,high
+2027-01-18,13:30,Canada CPI (Consumer Price Index),Canada,high
+2027-01-21,23:30,Japan CPI (National),Japan,high
+2027-01-27,14:45,BoC Rate Decision,Canada,high
+2027-01-27,19:00,FOMC Rate Decision,United States,high
+2027-01-28,23:30,"Japan CPI (Tokyo, advance)",Japan,medium
+2027-01-29,13:30,Canada GDP,Canada,high
+2027-02-04,12:00,BoE Rate Decision (Bank Rate),United Kingdom,high
+2027-02-04,13:15,ECB Rate Decision,Euro Area,high
+2027-02-05,13:30,Canada Labour Force Survey (Employment),Canada,high
+2027-02-09,03:30,RBA Rate Decision,Australia,high
+2027-02-10,01:00,RBNZ Rate Decision (OCR),New Zealand,high
+2027-02-14,23:50,Japan GDP (First Preliminary),Japan,high
+2027-02-16,13:30,Canada CPI (Consumer Price Index),Canada,high
+2027-02-18,23:30,Japan CPI (National),Japan,high
+2027-02-25,23:30,"Japan CPI (Tokyo, advance)",Japan,medium
+2027-03-01,13:30,Canada GDP,Canada,high
+2027-03-03,14:45,BoC Rate Decision,Canada,high
+2027-03-08,23:50,Japan GDP (Second Preliminary),Japan,medium
+2027-03-12,13:30,Canada Labour Force Survey (Employment),Canada,high
+2027-03-15,12:30,Canada CPI (Consumer Price Index),Canada,high
+2027-03-17,01:00,RBNZ Rate Decision (OCR),New Zealand,high
+2027-03-17,18:00,FOMC Rate Decision,United States,high
+2027-03-18,08:30,SNB Policy Rate Decision,Switzerland,high
+2027-03-18,12:00,BoE Rate Decision (Bank Rate),United Kingdom,high
+2027-03-18,13:15,ECB Rate Decision,Euro Area,high
+2027-03-18,23:30,Japan CPI (National),Japan,high
+2027-03-23,03:30,RBA Rate Decision,Australia,high
+2027-03-25,23:30,"Japan CPI (Tokyo, advance)",Japan,medium
+2027-03-31,12:30,Canada GDP,Canada,high
+2027-04-28,13:45,BoC Rate Decision,Canada,high
+2027-04-28,18:00,FOMC Rate Decision,United States,high
+2027-04-29,11:00,BoE Rate Decision (Bank Rate),United Kingdom,high
+2027-04-29,12:15,ECB Rate Decision,Euro Area,high
+2027-05-04,04:30,RBA Rate Decision,Australia,high
+2027-05-05,02:00,RBNZ Rate Decision (OCR),New Zealand,high
+2027-06-02,13:45,BoC Rate Decision,Canada,high
+2027-06-09,18:00,FOMC Rate Decision,United States,high
+2027-06-10,12:15,ECB Rate Decision,Euro Area,high
+2027-06-16,02:00,RBNZ Rate Decision (OCR),New Zealand,high
+2027-06-17,11:00,BoE Rate Decision (Bank Rate),United Kingdom,high
+2027-06-22,04:30,RBA Rate Decision,Australia,high
+2027-06-24,07:30,SNB Policy Rate Decision,Switzerland,high
+2027-07-21,13:45,BoC Rate Decision,Canada,high
+2027-07-22,12:15,ECB Rate Decision,Euro Area,high
+2027-07-28,18:00,FOMC Rate Decision,United States,high
+2027-07-29,11:00,BoE Rate Decision (Bank Rate),United Kingdom,high
+2027-08-04,02:00,RBNZ Rate Decision (OCR),New Zealand,high
+2027-08-10,04:30,RBA Rate Decision,Australia,high
+2027-09-08,13:45,BoC Rate Decision,Canada,high
+2027-09-09,12:15,ECB Rate Decision,Euro Area,high
+2027-09-15,02:00,RBNZ Rate Decision (OCR),New Zealand,high
+2027-09-15,18:00,FOMC Rate Decision,United States,high
+2027-09-16,11:00,BoE Rate Decision (Bank Rate),United Kingdom,high
+2027-09-23,07:30,SNB Policy Rate Decision,Switzerland,high
+2027-09-28,04:30,RBA Rate Decision,Australia,high
+2027-10-27,01:00,RBNZ Rate Decision (OCR),New Zealand,high
+2027-10-27,13:45,BoC Rate Decision,Canada,high
+2027-10-27,18:00,FOMC Rate Decision,United States,high
+2027-10-28,12:15,ECB Rate Decision,Euro Area,high
+2027-11-02,03:30,RBA Rate Decision,Australia,high

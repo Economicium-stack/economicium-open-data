@@ -1,0 +1,1595 @@
+date,indicator,indicator_name,value,threshold
+2000-01-01,sahm,Sahm Rule,-0.03,0.5
+2000-02-01,sahm,Sahm Rule,0,0.5
+2000-03-01,sahm,Sahm Rule,0,0.5
+2000-04-01,sahm,Sahm Rule,-0.03,0.5
+2000-05-01,sahm,Sahm Rule,0,0.5
+2000-06-01,sahm,Sahm Rule,-0.03,0.5
+2000-07-01,sahm,Sahm Rule,0.03,0.5
+2000-08-01,sahm,Sahm Rule,0.03,0.5
+2000-09-01,sahm,Sahm Rule,0,0.5
+2000-10-01,sahm,Sahm Rule,-0.03,0.5
+2000-11-01,sahm,Sahm Rule,-0.03,0.5
+2000-12-01,sahm,Sahm Rule,0.03,0.5
+2001-01-01,sahm,Sahm Rule,0.13,0.5
+2001-02-01,sahm,Sahm Rule,0.2,0.5
+2001-03-01,sahm,Sahm Rule,0.3,0.5
+2001-04-01,sahm,Sahm Rule,0.4,0.5
+2001-05-01,sahm,Sahm Rule,0.47,0.5
+2001-06-01,sahm,Sahm Rule,0.53,0.5
+2001-07-01,sahm,Sahm Rule,0.53,0.5
+2001-08-01,sahm,Sahm Rule,0.7,0.5
+2001-09-01,sahm,Sahm Rule,0.83,0.5
+2001-10-01,sahm,Sahm Rule,1.13,0.5
+2001-11-01,sahm,Sahm Rule,1.4,0.5
+2001-12-01,sahm,Sahm Rule,1.63,0.5
+2002-01-01,sahm,Sahm Rule,1.6,0.5
+2002-02-01,sahm,Sahm Rule,1.5,0.5
+2002-03-01,sahm,Sahm Rule,1.37,0.5
+2002-04-01,sahm,Sahm Rule,1.4,0.5
+2002-05-01,sahm,Sahm Rule,1.43,0.5
+2002-06-01,sahm,Sahm Rule,1.4,0.5
+2002-07-01,sahm,Sahm Rule,1.33,0.5
+2002-08-01,sahm,Sahm Rule,1.13,0.5
+2002-09-01,sahm,Sahm Rule,0.9,0.5
+2002-10-01,sahm,Sahm Rule,0.57,0.5
+2002-11-01,sahm,Sahm Rule,0.43,0.5
+2002-12-01,sahm,Sahm Rule,0.3,0.5
+2003-01-01,sahm,Sahm Rule,0.23,0.5
+2003-02-01,sahm,Sahm Rule,0.2,0.5
+2003-03-01,sahm,Sahm Rule,0.13,0.5
+2003-04-01,sahm,Sahm Rule,0.13,0.5
+2003-05-01,sahm,Sahm Rule,0.2,0.5
+2003-06-01,sahm,Sahm Rule,0.4,0.5
+2003-07-01,sahm,Sahm Rule,0.47,0.5
+2003-08-01,sahm,Sahm Rule,0.47,0.5
+2003-09-01,sahm,Sahm Rule,0.37,0.5
+2003-10-01,sahm,Sahm Rule,0.3,0.5
+2003-11-01,sahm,Sahm Rule,0.23,0.5
+2003-12-01,sahm,Sahm Rule,0.03,0.5
+2004-01-01,sahm,Sahm Rule,-0.1,0.5
+2004-02-01,sahm,Sahm Rule,-0.1,0.5
+2004-03-01,sahm,Sahm Rule,0,0.5
+2004-04-01,sahm,Sahm Rule,0,0.5
+2004-05-01,sahm,Sahm Rule,0,0.5
+2004-06-01,sahm,Sahm Rule,-0.03,0.5
+2004-07-01,sahm,Sahm Rule,-0.03,0.5
+2004-08-01,sahm,Sahm Rule,-0.07,0.5
+2004-09-01,sahm,Sahm Rule,-0.07,0.5
+2004-10-01,sahm,Sahm Rule,0,0.5
+2004-11-01,sahm,Sahm Rule,0,0.5
+2004-12-01,sahm,Sahm Rule,0,0.5
+2005-01-01,sahm,Sahm Rule,-0.1,0.5
+2005-02-01,sahm,Sahm Rule,0,0.5
+2005-03-01,sahm,Sahm Rule,-0.07,0.5
+2005-04-01,sahm,Sahm Rule,0,0.5
+2005-05-01,sahm,Sahm Rule,-0.1,0.5
+2005-06-01,sahm,Sahm Rule,-0.07,0.5
+2005-07-01,sahm,Sahm Rule,-0.07,0.5
+2005-08-01,sahm,Sahm Rule,-0.07,0.5
+2005-09-01,sahm,Sahm Rule,0.03,0.5
+2005-10-01,sahm,Sahm Rule,0.03,0.5
+2005-11-01,sahm,Sahm Rule,0.07,0.5
+2005-12-01,sahm,Sahm Rule,-0.03,0.5
+2006-01-01,sahm,Sahm Rule,-0.07,0.5
+2006-02-01,sahm,Sahm Rule,-0.07,0.5
+2006-03-01,sahm,Sahm Rule,-0.07,0.5
+2006-04-01,sahm,Sahm Rule,0,0.5
+2006-05-01,sahm,Sahm Rule,-0.07,0.5
+2006-06-01,sahm,Sahm Rule,-0.03,0.5
+2006-07-01,sahm,Sahm Rule,0.03,0.5
+2006-08-01,sahm,Sahm Rule,0.07,0.5
+2006-09-01,sahm,Sahm Rule,0.07,0.5
+2006-10-01,sahm,Sahm Rule,-0.07,0.5
+2006-11-01,sahm,Sahm Rule,-0.07,0.5
+2006-12-01,sahm,Sahm Rule,-0.03,0.5
+2007-01-01,sahm,Sahm Rule,0.07,0.5
+2007-02-01,sahm,Sahm Rule,0.07,0.5
+2007-03-01,sahm,Sahm Rule,0.03,0.5
+2007-04-01,sahm,Sahm Rule,0,0.5
+2007-05-01,sahm,Sahm Rule,0,0.5
+2007-06-01,sahm,Sahm Rule,0.03,0.5
+2007-07-01,sahm,Sahm Rule,0.07,0.5
+2007-08-01,sahm,Sahm Rule,0.1,0.5
+2007-09-01,sahm,Sahm Rule,0.17,0.5
+2007-10-01,sahm,Sahm Rule,0.2,0.5
+2007-11-01,sahm,Sahm Rule,0.23,0.5
+2007-12-01,sahm,Sahm Rule,0.4,0.5
+2008-01-01,sahm,Sahm Rule,0.4,0.5
+2008-02-01,sahm,Sahm Rule,0.43,0.5
+2008-03-01,sahm,Sahm Rule,0.47,0.5
+2008-04-01,sahm,Sahm Rule,0.5,0.5
+2008-05-01,sahm,Sahm Rule,0.73,0.5
+2008-06-01,sahm,Sahm Rule,0.8,0.5
+2008-07-01,sahm,Sahm Rule,0.97,0.5
+2008-08-01,sahm,Sahm Rule,1.1,0.5
+2008-09-01,sahm,Sahm Rule,1.27,0.5
+2008-10-01,sahm,Sahm Rule,1.5,0.5
+2008-11-01,sahm,Sahm Rule,1.7,0.5
+2008-12-01,sahm,Sahm Rule,2.07,0.5
+2009-01-01,sahm,Sahm Rule,2.37,0.5
+2009-02-01,sahm,Sahm Rule,2.77,0.5
+2009-03-01,sahm,Sahm Rule,3.13,0.5
+2009-04-01,sahm,Sahm Rule,3.53,0.5
+2009-05-01,sahm,Sahm Rule,3.73,0.5
+2009-06-01,sahm,Sahm Rule,3.9,0.5
+2009-07-01,sahm,Sahm Rule,3.8,0.5
+2009-08-01,sahm,Sahm Rule,3.67,0.5
+2009-09-01,sahm,Sahm Rule,3.57,0.5
+2009-10-01,sahm,Sahm Rule,3.57,0.5
+2009-11-01,sahm,Sahm Rule,3.47,0.5
+2009-12-01,sahm,Sahm Rule,3.07,0.5
+2010-01-01,sahm,Sahm Rule,2.57,0.5
+2010-02-01,sahm,Sahm Rule,2.03,0.5
+2010-03-01,sahm,Sahm Rule,1.53,0.5
+2010-04-01,sahm,Sahm Rule,1.2,0.5
+2010-05-01,sahm,Sahm Rule,0.8,0.5
+2010-06-01,sahm,Sahm Rule,0.43,0.5
+2010-07-01,sahm,Sahm Rule,0.13,0.5
+2010-08-01,sahm,Sahm Rule,0,0.5
+2010-09-01,sahm,Sahm Rule,0.03,0.5
+2010-10-01,sahm,Sahm Rule,0.07,0.5
+2010-11-01,sahm,Sahm Rule,0.13,0.5
+2010-12-01,sahm,Sahm Rule,0.1,0.5
+2011-01-01,sahm,Sahm Rule,-0.13,0.5
+2011-02-01,sahm,Sahm Rule,-0.3,0.5
+2011-03-01,sahm,Sahm Rule,-0.2,0.5
+2011-04-01,sahm,Sahm Rule,0,0.5
+2011-05-01,sahm,Sahm Rule,0.07,0.5
+2011-06-01,sahm,Sahm Rule,0.2,0.5
+2011-07-01,sahm,Sahm Rule,0.23,0.5
+2011-08-01,sahm,Sahm Rule,0.23,0.5
+2011-09-01,sahm,Sahm Rule,0.2,0.5
+2011-10-01,sahm,Sahm Rule,0.17,0.5
+2011-11-01,sahm,Sahm Rule,0,0.5
+2011-12-01,sahm,Sahm Rule,-0.17,0.5
+2012-01-01,sahm,Sahm Rule,-0.2,0.5
+2012-02-01,sahm,Sahm Rule,-0.13,0.5
+2012-03-01,sahm,Sahm Rule,-0.1,0.5
+2012-04-01,sahm,Sahm Rule,-0.07,0.5
+2012-05-01,sahm,Sahm Rule,-0.03,0.5
+2012-06-01,sahm,Sahm Rule,0,0.5
+2012-07-01,sahm,Sahm Rule,0.07,0.5
+2012-08-01,sahm,Sahm Rule,0.03,0.5
+2012-09-01,sahm,Sahm Rule,-0.1,0.5
+2012-10-01,sahm,Sahm Rule,-0.13,0.5
+2012-11-01,sahm,Sahm Rule,-0.13,0.5
+2012-12-01,sahm,Sahm Rule,0,0.5
+2013-01-01,sahm,Sahm Rule,0,0.5
+2013-02-01,sahm,Sahm Rule,-0.03,0.5
+2013-03-01,sahm,Sahm Rule,-0.07,0.5
+2013-04-01,sahm,Sahm Rule,-0.13,0.5
+2013-05-01,sahm,Sahm Rule,-0.03,0.5
+2013-06-01,sahm,Sahm Rule,0,0.5
+2013-07-01,sahm,Sahm Rule,-0.03,0.5
+2013-08-01,sahm,Sahm Rule,-0.1,0.5
+2013-09-01,sahm,Sahm Rule,-0.13,0.5
+2013-10-01,sahm,Sahm Rule,-0.03,0.5
+2013-11-01,sahm,Sahm Rule,-0.1,0.5
+2013-12-01,sahm,Sahm Rule,-0.17,0.5
+2014-01-01,sahm,Sahm Rule,-0.2,0.5
+2014-02-01,sahm,Sahm Rule,-0.1,0.5
+2014-03-01,sahm,Sahm Rule,0,0.5
+2014-04-01,sahm,Sahm Rule,-0.1,0.5
+2014-05-01,sahm,Sahm Rule,-0.13,0.5
+2014-06-01,sahm,Sahm Rule,-0.2,0.5
+2014-07-01,sahm,Sahm Rule,-0.03,0.5
+2014-08-01,sahm,Sahm Rule,-0.07,0.5
+2014-09-01,sahm,Sahm Rule,-0.07,0.5
+2014-10-01,sahm,Sahm Rule,-0.13,0.5
+2014-11-01,sahm,Sahm Rule,-0.1,0.5
+2014-12-01,sahm,Sahm Rule,-0.1,0.5
+2015-01-01,sahm,Sahm Rule,0,0.5
+2015-02-01,sahm,Sahm Rule,-0.1,0.5
+2015-03-01,sahm,Sahm Rule,-0.03,0.5
+2015-04-01,sahm,Sahm Rule,-0.1,0.5
+2015-05-01,sahm,Sahm Rule,0,0.5
+2015-06-01,sahm,Sahm Rule,-0.07,0.5
+2015-07-01,sahm,Sahm Rule,-0.03,0.5
+2015-08-01,sahm,Sahm Rule,-0.13,0.5
+2015-09-01,sahm,Sahm Rule,-0.07,0.5
+2015-10-01,sahm,Sahm Rule,-0.1,0.5
+2015-11-01,sahm,Sahm Rule,-0.03,0.5
+2015-12-01,sahm,Sahm Rule,-0.03,0.5
+2016-01-01,sahm,Sahm Rule,-0.03,0.5
+2016-02-01,sahm,Sahm Rule,-0.03,0.5
+2016-03-01,sahm,Sahm Rule,0,0.5
+2016-04-01,sahm,Sahm Rule,0.03,0.5
+2016-05-01,sahm,Sahm Rule,-0.03,0.5
+2016-06-01,sahm,Sahm Rule,-0.03,0.5
+2016-07-01,sahm,Sahm Rule,-0.03,0.5
+2016-08-01,sahm,Sahm Rule,0.07,0.5
+2016-09-01,sahm,Sahm Rule,0.1,0.5
+2016-10-01,sahm,Sahm Rule,0.1,0.5
+2016-11-01,sahm,Sahm Rule,0,0.5
+2016-12-01,sahm,Sahm Rule,-0.07,0.5
+2017-01-01,sahm,Sahm Rule,0,0.5
+2017-02-01,sahm,Sahm Rule,0.03,0.5
+2017-03-01,sahm,Sahm Rule,-0.03,0.5
+2017-04-01,sahm,Sahm Rule,-0.13,0.5
+2017-05-01,sahm,Sahm Rule,-0.13,0.5
+2017-06-01,sahm,Sahm Rule,-0.03,0.5
+2017-07-01,sahm,Sahm Rule,-0.03,0.5
+2017-08-01,sahm,Sahm Rule,0.03,0.5
+2017-09-01,sahm,Sahm Rule,-0.03,0.5
+2017-10-01,sahm,Sahm Rule,-0.07,0.5
+2017-11-01,sahm,Sahm Rule,-0.1,0.5
+2017-12-01,sahm,Sahm Rule,-0.03,0.5
+2018-01-01,sahm,Sahm Rule,0,0.5
+2018-02-01,sahm,Sahm Rule,0,0.5
+2018-03-01,sahm,Sahm Rule,0,0.5
+2018-04-01,sahm,Sahm Rule,-0.07,0.5
+2018-05-01,sahm,Sahm Rule,-0.1,0.5
+2018-06-01,sahm,Sahm Rule,-0.03,0.5
+2018-07-01,sahm,Sahm Rule,0,0.5
+2018-08-01,sahm,Sahm Rule,0.03,0.5
+2018-09-01,sahm,Sahm Rule,-0.07,0.5
+2018-10-01,sahm,Sahm Rule,-0.07,0.5
+2018-11-01,sahm,Sahm Rule,-0.07,0.5
+2018-12-01,sahm,Sahm Rule,0.07,0.5
+2019-01-01,sahm,Sahm Rule,0.13,0.5
+2019-02-01,sahm,Sahm Rule,0.17,0.5
+2019-03-01,sahm,Sahm Rule,0.13,0.5
+2019-04-01,sahm,Sahm Rule,0,0.5
+2019-05-01,sahm,Sahm Rule,-0.07,0.5
+2019-06-01,sahm,Sahm Rule,-0.03,0.5
+2019-07-01,sahm,Sahm Rule,0.03,0.5
+2019-08-01,sahm,Sahm Rule,0.07,0.5
+2019-09-01,sahm,Sahm Rule,0,0.5
+2019-10-01,sahm,Sahm Rule,-0.03,0.5
+2019-11-01,sahm,Sahm Rule,-0.07,0.5
+2019-12-01,sahm,Sahm Rule,0,0.5
+2020-01-01,sahm,Sahm Rule,0,0.5
+2020-02-01,sahm,Sahm Rule,0,0.5
+2020-03-01,sahm,Sahm Rule,0.3,0.5
+2020-04-01,sahm,Sahm Rule,4,0.5
+2020-05-01,sahm,Sahm Rule,7.27,0.5
+2020-06-01,sahm,Sahm Rule,9.5,0.5
+2020-07-01,sahm,Sahm Rule,8,0.5
+2020-08-01,sahm,Sahm Rule,6.37,0.5
+2020-09-01,sahm,Sahm Rule,5.3,0.5
+2020-10-01,sahm,Sahm Rule,4.2,0.5
+2020-11-01,sahm,Sahm Rule,3.63,0.5
+2020-12-01,sahm,Sahm Rule,3.23,0.5
+2021-01-01,sahm,Sahm Rule,3.03,0.5
+2021-02-01,sahm,Sahm Rule,2.87,0.5
+2021-03-01,sahm,Sahm Rule,2.33,0.5
+2021-04-01,sahm,Sahm Rule,-0.07,0.5
+2021-05-01,sahm,Sahm Rule,-0.13,0.5
+2021-06-01,sahm,Sahm Rule,-0.03,0.5
+2021-07-01,sahm,Sahm Rule,-0.23,0.5
+2021-08-01,sahm,Sahm Rule,-0.2,0.5
+2021-09-01,sahm,Sahm Rule,-0.37,0.5
+2021-10-01,sahm,Sahm Rule,-0.27,0.5
+2021-11-01,sahm,Sahm Rule,-0.33,0.5
+2021-12-01,sahm,Sahm Rule,-0.27,0.5
+2022-01-01,sahm,Sahm Rule,-0.2,0.5
+2022-02-01,sahm,Sahm Rule,-0.13,0.5
+2022-03-01,sahm,Sahm Rule,-0.1,0.5
+2022-04-01,sahm,Sahm Rule,-0.13,0.5
+2022-05-01,sahm,Sahm Rule,-0.07,0.5
+2022-06-01,sahm,Sahm Rule,0,0.5
+2022-07-01,sahm,Sahm Rule,-0.03,0.5
+2022-08-01,sahm,Sahm Rule,0.03,0.5
+2022-09-01,sahm,Sahm Rule,0,0.5
+2022-10-01,sahm,Sahm Rule,0.07,0.5
+2022-11-01,sahm,Sahm Rule,0.07,0.5
+2022-12-01,sahm,Sahm Rule,0.03,0.5
+2023-01-01,sahm,Sahm Rule,-0.07,0.5
+2023-02-01,sahm,Sahm Rule,0,0.5
+2023-03-01,sahm,Sahm Rule,0,0.5
+2023-04-01,sahm,Sahm Rule,0,0.5
+2023-05-01,sahm,Sahm Rule,0.03,0.5
+2023-06-01,sahm,Sahm Rule,0.07,0.5
+2023-07-01,sahm,Sahm Rule,0.1,0.5
+2023-08-01,sahm,Sahm Rule,0.13,0.5
+2023-09-01,sahm,Sahm Rule,0.2,0.5
+2023-10-01,sahm,Sahm Rule,0.33,0.5
+2023-11-01,sahm,Sahm Rule,0.3,0.5
+2023-12-01,sahm,Sahm Rule,0.23,0.5
+2024-01-01,sahm,Sahm Rule,0.2,0.5
+2024-02-01,sahm,Sahm Rule,0.27,0.5
+2024-03-01,sahm,Sahm Rule,0.3,0.5
+2024-04-01,sahm,Sahm Rule,0.37,0.5
+2024-05-01,sahm,Sahm Rule,0.37,0.5
+2024-06-01,sahm,Sahm Rule,0.43,0.5
+2024-07-01,sahm,Sahm Rule,0.53,0.5
+2024-08-01,sahm,Sahm Rule,0.57,0.5
+2024-09-01,sahm,Sahm Rule,0.5,0.5
+2024-10-01,sahm,Sahm Rule,0.43,0.5
+2024-11-01,sahm,Sahm Rule,0.43,0.5
+2024-12-01,sahm,Sahm Rule,0.4,0.5
+2025-01-01,sahm,Sahm Rule,0.37,0.5
+2025-02-01,sahm,Sahm Rule,0.27,0.5
+2025-03-01,sahm,Sahm Rule,0.27,0.5
+2025-04-01,sahm,Sahm Rule,0.27,0.5
+2025-05-01,sahm,Sahm Rule,0.27,0.5
+2025-06-01,sahm,Sahm Rule,0.17,0.5
+2025-07-01,sahm,Sahm Rule,0.1,0.5
+2025-08-01,sahm,Sahm Rule,0.13,0.5
+2025-09-01,sahm,Sahm Rule,0.23,0.5
+2025-11-01,sahm,Sahm Rule,0.43,0.5
+2025-12-01,sahm,Sahm Rule,0.35,0.5
+2026-01-01,sahm,Sahm Rule,0.3,0.5
+2026-02-01,sahm,Sahm Rule,0.27,0.5
+2026-03-01,sahm,Sahm Rule,0.2,0.5
+2026-04-01,sahm,Sahm Rule,0.13,0.5
+2026-05-01,sahm,Sahm Rule,0.1,0.5
+2026-06-01,sahm,Sahm Rule,0.07,0.5
+2026-07-01,sahm,Sahm Rule,-0.03,0.5
+2000-01-01,curve,Yield curve (10y minus 3m),0.92,0
+2000-02-01,curve,Yield curve (10y minus 3m),0.64,0
+2000-03-01,curve,Yield curve (10y minus 3m),0.15,0
+2000-04-01,curve,Yield curve (10y minus 3m),0.41,0
+2000-05-01,curve,Yield curve (10y minus 3m),0.66,0
+2000-06-01,curve,Yield curve (10y minus 3m),0.15,0
+2000-07-01,curve,Yield curve (10y minus 3m),-0.23,0
+2000-08-01,curve,Yield curve (10y minus 3m),-0.58,0
+2000-09-01,curve,Yield curve (10y minus 3m),-0.43,0
+2000-10-01,curve,Yield curve (10y minus 3m),-0.61,0
+2000-11-01,curve,Yield curve (10y minus 3m),-0.73,0
+2000-12-01,curve,Yield curve (10y minus 3m),-0.77,0
+2001-01-01,curve,Yield curve (10y minus 3m),0.2,0
+2001-02-01,curve,Yield curve (10y minus 3m),0.07,0
+2001-03-01,curve,Yield curve (10y minus 3m),0.63,0
+2001-04-01,curve,Yield curve (10y minus 3m),1.4,0
+2001-05-01,curve,Yield curve (10y minus 3m),1.8,0
+2001-06-01,curve,Yield curve (10y minus 3m),1.77,0
+2001-07-01,curve,Yield curve (10y minus 3m),1.53,0
+2001-08-01,curve,Yield curve (10y minus 3m),1.48,0
+2001-09-01,curve,Yield curve (10y minus 3m),2.2,0
+2001-10-01,curve,Yield curve (10y minus 3m),2.25,0
+2001-11-01,curve,Yield curve (10y minus 3m),3,0
+2001-12-01,curve,Yield curve (10y minus 3m),3.33,0
+2002-01-01,curve,Yield curve (10y minus 3m),3.31,0
+2002-02-01,curve,Yield curve (10y minus 3m),3.09,0
+2002-03-01,curve,Yield curve (10y minus 3m),3.63,0
+2002-04-01,curve,Yield curve (10y minus 3m),3.34,0
+2002-05-01,curve,Yield curve (10y minus 3m),3.34,0
+2002-06-01,curve,Yield curve (10y minus 3m),3.16,0
+2002-07-01,curve,Yield curve (10y minus 3m),2.8,0
+2002-08-01,curve,Yield curve (10y minus 3m),2.45,0
+2002-09-01,curve,Yield curve (10y minus 3m),2.06,0
+2002-10-01,curve,Yield curve (10y minus 3m),2.49,0
+2002-11-01,curve,Yield curve (10y minus 3m),3,0
+2002-12-01,curve,Yield curve (10y minus 3m),2.61,0
+2003-01-01,curve,Yield curve (10y minus 3m),2.82,0
+2003-02-01,curve,Yield curve (10y minus 3m),2.51,0
+2003-03-01,curve,Yield curve (10y minus 3m),2.69,0
+2003-04-01,curve,Yield curve (10y minus 3m),2.76,0
+2003-05-01,curve,Yield curve (10y minus 3m),2.26,0
+2003-06-01,curve,Yield curve (10y minus 3m),2.64,0
+2003-07-01,curve,Yield curve (10y minus 3m),3.53,0
+2003-08-01,curve,Yield curve (10y minus 3m),3.47,0
+2003-09-01,curve,Yield curve (10y minus 3m),3.01,0
+2003-10-01,curve,Yield curve (10y minus 3m),3.37,0
+2003-11-01,curve,Yield curve (10y minus 3m),3.41,0
+2003-12-01,curve,Yield curve (10y minus 3m),3.32,0
+2004-01-01,curve,Yield curve (10y minus 3m),3.24,0
+2004-02-01,curve,Yield curve (10y minus 3m),3.03,0
+2004-03-01,curve,Yield curve (10y minus 3m),2.91,0
+2004-04-01,curve,Yield curve (10y minus 3m),3.55,0
+2004-05-01,curve,Yield curve (10y minus 3m),3.58,0
+2004-06-01,curve,Yield curve (10y minus 3m),3.29,0
+2004-07-01,curve,Yield curve (10y minus 3m),3.05,0
+2004-08-01,curve,Yield curve (10y minus 3m),2.54,0
+2004-09-01,curve,Yield curve (10y minus 3m),2.43,0
+2004-10-01,curve,Yield curve (10y minus 3m),2.14,0
+2004-11-01,curve,Yield curve (10y minus 3m),2.13,0
+2004-12-01,curve,Yield curve (10y minus 3m),2.02,0
+2005-01-01,curve,Yield curve (10y minus 3m),1.63,0
+2005-02-01,curve,Yield curve (10y minus 3m),1.6,0
+2005-03-01,curve,Yield curve (10y minus 3m),1.71,0
+2005-04-01,curve,Yield curve (10y minus 3m),1.31,0
+2005-05-01,curve,Yield curve (10y minus 3m),1.01,0
+2005-06-01,curve,Yield curve (10y minus 3m),0.81,0
+2005-07-01,curve,Yield curve (10y minus 3m),0.86,0
+2005-08-01,curve,Yield curve (10y minus 3m),0.5,0
+2005-09-01,curve,Yield curve (10y minus 3m),0.79,0
+2005-10-01,curve,Yield curve (10y minus 3m),0.59,0
+2005-11-01,curve,Yield curve (10y minus 3m),0.54,0
+2005-12-01,curve,Yield curve (10y minus 3m),0.31,0
+2006-01-01,curve,Yield curve (10y minus 3m),0.06,0
+2006-02-01,curve,Yield curve (10y minus 3m),-0.07,0
+2006-03-01,curve,Yield curve (10y minus 3m),0.23,0
+2006-04-01,curve,Yield curve (10y minus 3m),0.3,0
+2006-05-01,curve,Yield curve (10y minus 3m),0.26,0
+2006-06-01,curve,Yield curve (10y minus 3m),0.14,0
+2006-07-01,curve,Yield curve (10y minus 3m),-0.11,0
+2006-08-01,curve,Yield curve (10y minus 3m),-0.31,0
+2006-09-01,curve,Yield curve (10y minus 3m),-0.25,0
+2006-10-01,curve,Yield curve (10y minus 3m),-0.47,0
+2006-11-01,curve,Yield curve (10y minus 3m),-0.57,0
+2006-12-01,curve,Yield curve (10y minus 3m),-0.31,0
+2007-01-01,curve,Yield curve (10y minus 3m),-0.29,0
+2007-02-01,curve,Yield curve (10y minus 3m),-0.6,0
+2007-03-01,curve,Yield curve (10y minus 3m),-0.39,0
+2007-04-01,curve,Yield curve (10y minus 3m),-0.28,0
+2007-05-01,curve,Yield curve (10y minus 3m),0.17,0
+2007-06-01,curve,Yield curve (10y minus 3m),0.21,0
+2007-07-01,curve,Yield curve (10y minus 3m),-0.18,0
+2007-08-01,curve,Yield curve (10y minus 3m),0.53,0
+2007-09-01,curve,Yield curve (10y minus 3m),0.77,0
+2007-10-01,curve,Yield curve (10y minus 3m),0.54,0
+2007-11-01,curve,Yield curve (10y minus 3m),0.82,0
+2007-12-01,curve,Yield curve (10y minus 3m),0.68,0
+2008-01-01,curve,Yield curve (10y minus 3m),1.71,0
+2008-02-01,curve,Yield curve (10y minus 3m),1.68,0
+2008-03-01,curve,Yield curve (10y minus 3m),2.07,0
+2008-04-01,curve,Yield curve (10y minus 3m),2.34,0
+2008-05-01,curve,Yield curve (10y minus 3m),2.17,0
+2008-06-01,curve,Yield curve (10y minus 3m),2.09,0
+2008-07-01,curve,Yield curve (10y minus 3m),2.31,0
+2008-08-01,curve,Yield curve (10y minus 3m),2.11,0
+2008-09-01,curve,Yield curve (10y minus 3m),2.93,0
+2008-10-01,curve,Yield curve (10y minus 3m),3.55,0
+2008-11-01,curve,Yield curve (10y minus 3m),2.92,0
+2008-12-01,curve,Yield curve (10y minus 3m),2.14,0
+2009-01-01,curve,Yield curve (10y minus 3m),2.63,0
+2009-02-01,curve,Yield curve (10y minus 3m),2.76,0
+2009-03-01,curve,Yield curve (10y minus 3m),2.5,0
+2009-04-01,curve,Yield curve (10y minus 3m),3.02,0
+2009-05-01,curve,Yield curve (10y minus 3m),3.33,0
+2009-06-01,curve,Yield curve (10y minus 3m),3.34,0
+2009-07-01,curve,Yield curve (10y minus 3m),3.34,0
+2009-08-01,curve,Yield curve (10y minus 3m),3.25,0
+2009-09-01,curve,Yield curve (10y minus 3m),3.17,0
+2009-10-01,curve,Yield curve (10y minus 3m),3.36,0
+2009-11-01,curve,Yield curve (10y minus 3m),3.15,0
+2009-12-01,curve,Yield curve (10y minus 3m),3.79,0
+2010-01-01,curve,Yield curve (10y minus 3m),3.55,0
+2010-02-01,curve,Yield curve (10y minus 3m),3.48,0
+2010-03-01,curve,Yield curve (10y minus 3m),3.68,0
+2010-04-01,curve,Yield curve (10y minus 3m),3.53,0
+2010-05-01,curve,Yield curve (10y minus 3m),3.15,0
+2010-06-01,curve,Yield curve (10y minus 3m),2.79,0
+2010-07-01,curve,Yield curve (10y minus 3m),2.79,0
+2010-08-01,curve,Yield curve (10y minus 3m),2.33,0
+2010-09-01,curve,Yield curve (10y minus 3m),2.37,0
+2010-10-01,curve,Yield curve (10y minus 3m),2.51,0
+2010-11-01,curve,Yield curve (10y minus 3m),2.64,0
+2010-12-01,curve,Yield curve (10y minus 3m),3.18,0
+2011-01-01,curve,Yield curve (10y minus 3m),3.27,0
+2011-02-01,curve,Yield curve (10y minus 3m),3.27,0
+2011-03-01,curve,Yield curve (10y minus 3m),3.38,0
+2011-04-01,curve,Yield curve (10y minus 3m),3.28,0
+2011-05-01,curve,Yield curve (10y minus 3m),2.99,0
+2011-06-01,curve,Yield curve (10y minus 3m),3.15,0
+2011-07-01,curve,Yield curve (10y minus 3m),2.72,0
+2011-08-01,curve,Yield curve (10y minus 3m),2.21,0
+2011-09-01,curve,Yield curve (10y minus 3m),1.9,0
+2011-10-01,curve,Yield curve (10y minus 3m),2.16,0
+2011-11-01,curve,Yield curve (10y minus 3m),2.07,0
+2011-12-01,curve,Yield curve (10y minus 3m),1.87,0
+2012-01-01,curve,Yield curve (10y minus 3m),1.77,0
+2012-02-01,curve,Yield curve (10y minus 3m),1.9,0
+2012-03-01,curve,Yield curve (10y minus 3m),2.16,0
+2012-04-01,curve,Yield curve (10y minus 3m),1.85,0
+2012-05-01,curve,Yield curve (10y minus 3m),1.52,0
+2012-06-01,curve,Yield curve (10y minus 3m),1.58,0
+2012-07-01,curve,Yield curve (10y minus 3m),1.4,0
+2012-08-01,curve,Yield curve (10y minus 3m),1.48,0
+2012-09-01,curve,Yield curve (10y minus 3m),1.55,0
+2012-10-01,curve,Yield curve (10y minus 3m),1.61,0
+2012-11-01,curve,Yield curve (10y minus 3m),1.54,0
+2012-12-01,curve,Yield curve (10y minus 3m),1.73,0
+2013-01-01,curve,Yield curve (10y minus 3m),1.95,0
+2013-02-01,curve,Yield curve (10y minus 3m),1.78,0
+2013-03-01,curve,Yield curve (10y minus 3m),1.8,0
+2013-04-01,curve,Yield curve (10y minus 3m),1.65,0
+2013-05-01,curve,Yield curve (10y minus 3m),2.12,0
+2013-06-01,curve,Yield curve (10y minus 3m),2.48,0
+2013-07-01,curve,Yield curve (10y minus 3m),2.56,0
+2013-08-01,curve,Yield curve (10y minus 3m),2.75,0
+2013-09-01,curve,Yield curve (10y minus 3m),2.62,0
+2013-10-01,curve,Yield curve (10y minus 3m),2.53,0
+2013-11-01,curve,Yield curve (10y minus 3m),2.69,0
+2013-12-01,curve,Yield curve (10y minus 3m),2.97,0
+2014-01-01,curve,Yield curve (10y minus 3m),2.65,0
+2014-02-01,curve,Yield curve (10y minus 3m),2.61,0
+2014-03-01,curve,Yield curve (10y minus 3m),2.68,0
+2014-04-01,curve,Yield curve (10y minus 3m),2.64,0
+2014-05-01,curve,Yield curve (10y minus 3m),2.44,0
+2014-06-01,curve,Yield curve (10y minus 3m),2.49,0
+2014-07-01,curve,Yield curve (10y minus 3m),2.55,0
+2014-08-01,curve,Yield curve (10y minus 3m),2.32,0
+2014-09-01,curve,Yield curve (10y minus 3m),2.5,0
+2014-10-01,curve,Yield curve (10y minus 3m),2.34,0
+2014-11-01,curve,Yield curve (10y minus 3m),2.16,0
+2014-12-01,curve,Yield curve (10y minus 3m),2.13,0
+2015-01-01,curve,Yield curve (10y minus 3m),1.66,0
+2015-02-01,curve,Yield curve (10y minus 3m),1.98,0
+2015-03-01,curve,Yield curve (10y minus 3m),1.91,0
+2015-04-01,curve,Yield curve (10y minus 3m),2.04,0
+2015-05-01,curve,Yield curve (10y minus 3m),2.11,0
+2015-06-01,curve,Yield curve (10y minus 3m),2.34,0
+2015-07-01,curve,Yield curve (10y minus 3m),2.12,0
+2015-08-01,curve,Yield curve (10y minus 3m),2.13,0
+2015-09-01,curve,Yield curve (10y minus 3m),2.06,0
+2015-10-01,curve,Yield curve (10y minus 3m),2.08,0
+2015-11-01,curve,Yield curve (10y minus 3m),1.99,0
+2015-12-01,curve,Yield curve (10y minus 3m),2.11,0
+2016-01-01,curve,Yield curve (10y minus 3m),1.61,0
+2016-02-01,curve,Yield curve (10y minus 3m),1.41,0
+2016-03-01,curve,Yield curve (10y minus 3m),1.57,0
+2016-04-01,curve,Yield curve (10y minus 3m),1.61,0
+2016-05-01,curve,Yield curve (10y minus 3m),1.5,0
+2016-06-01,curve,Yield curve (10y minus 3m),1.23,0
+2016-07-01,curve,Yield curve (10y minus 3m),1.18,0
+2016-08-01,curve,Yield curve (10y minus 3m),1.25,0
+2016-09-01,curve,Yield curve (10y minus 3m),1.31,0
+2016-10-01,curve,Yield curve (10y minus 3m),1.5,0
+2016-11-01,curve,Yield curve (10y minus 3m),1.89,0
+2016-12-01,curve,Yield curve (10y minus 3m),1.94,0
+2017-01-01,curve,Yield curve (10y minus 3m),1.93,0
+2017-02-01,curve,Yield curve (10y minus 3m),1.83,0
+2017-03-01,curve,Yield curve (10y minus 3m),1.64,0
+2017-04-01,curve,Yield curve (10y minus 3m),1.49,0
+2017-05-01,curve,Yield curve (10y minus 3m),1.23,0
+2017-06-01,curve,Yield curve (10y minus 3m),1.28,0
+2017-07-01,curve,Yield curve (10y minus 3m),1.23,0
+2017-08-01,curve,Yield curve (10y minus 3m),1.11,0
+2017-09-01,curve,Yield curve (10y minus 3m),1.27,0
+2017-10-01,curve,Yield curve (10y minus 3m),1.23,0
+2017-11-01,curve,Yield curve (10y minus 3m),1.15,0
+2017-12-01,curve,Yield curve (10y minus 3m),1.01,0
+2018-01-01,curve,Yield curve (10y minus 3m),1.26,0
+2018-02-01,curve,Yield curve (10y minus 3m),1.22,0
+2018-03-01,curve,Yield curve (10y minus 3m),1.01,0
+2018-04-01,curve,Yield curve (10y minus 3m),1.08,0
+2018-05-01,curve,Yield curve (10y minus 3m),0.9,0
+2018-06-01,curve,Yield curve (10y minus 3m),0.92,0
+2018-07-01,curve,Yield curve (10y minus 3m),0.93,0
+2018-08-01,curve,Yield curve (10y minus 3m),0.75,0
+2018-09-01,curve,Yield curve (10y minus 3m),0.86,0
+2018-10-01,curve,Yield curve (10y minus 3m),0.81,0
+2018-11-01,curve,Yield curve (10y minus 3m),0.64,0
+2018-12-01,curve,Yield curve (10y minus 3m),0.24,0
+2019-01-01,curve,Yield curve (10y minus 3m),0.22,0
+2019-02-01,curve,Yield curve (10y minus 3m),0.28,0
+2019-03-01,curve,Yield curve (10y minus 3m),0.01,0
+2019-04-01,curve,Yield curve (10y minus 3m),0.08,0
+2019-05-01,curve,Yield curve (10y minus 3m),-0.21,0
+2019-06-01,curve,Yield curve (10y minus 3m),-0.12,0
+2019-07-01,curve,Yield curve (10y minus 3m),-0.06,0
+2019-08-01,curve,Yield curve (10y minus 3m),-0.49,0
+2019-09-01,curve,Yield curve (10y minus 3m),-0.2,0
+2019-10-01,curve,Yield curve (10y minus 3m),0.15,0
+2019-11-01,curve,Yield curve (10y minus 3m),0.19,0
+2019-12-01,curve,Yield curve (10y minus 3m),0.37,0
+2020-01-01,curve,Yield curve (10y minus 3m),-0.04,0
+2020-02-01,curve,Yield curve (10y minus 3m),-0.14,0
+2020-03-01,curve,Yield curve (10y minus 3m),0.59,0
+2020-04-01,curve,Yield curve (10y minus 3m),0.55,0
+2020-05-01,curve,Yield curve (10y minus 3m),0.51,0
+2020-06-01,curve,Yield curve (10y minus 3m),0.5,0
+2020-07-01,curve,Yield curve (10y minus 3m),0.46,0
+2020-08-01,curve,Yield curve (10y minus 3m),0.61,0
+2020-09-01,curve,Yield curve (10y minus 3m),0.59,0
+2020-10-01,curve,Yield curve (10y minus 3m),0.79,0
+2020-11-01,curve,Yield curve (10y minus 3m),0.76,0
+2020-12-01,curve,Yield curve (10y minus 3m),0.84,0
+2021-01-01,curve,Yield curve (10y minus 3m),1.05,0
+2021-02-01,curve,Yield curve (10y minus 3m),1.4,0
+2021-03-01,curve,Yield curve (10y minus 3m),1.71,0
+2021-04-01,curve,Yield curve (10y minus 3m),1.64,0
+2021-05-01,curve,Yield curve (10y minus 3m),1.57,0
+2021-06-01,curve,Yield curve (10y minus 3m),1.4,0
+2021-07-01,curve,Yield curve (10y minus 3m),1.18,0
+2021-08-01,curve,Yield curve (10y minus 3m),1.26,0
+2021-09-01,curve,Yield curve (10y minus 3m),1.48,0
+2021-10-01,curve,Yield curve (10y minus 3m),1.5,0
+2021-11-01,curve,Yield curve (10y minus 3m),1.38,0
+2021-12-01,curve,Yield curve (10y minus 3m),1.46,0
+2022-01-01,curve,Yield curve (10y minus 3m),1.57,0
+2022-02-01,curve,Yield curve (10y minus 3m),1.48,0
+2022-03-01,curve,Yield curve (10y minus 3m),1.8,0
+2022-04-01,curve,Yield curve (10y minus 3m),2.04,0
+2022-05-01,curve,Yield curve (10y minus 3m),1.69,0
+2022-06-01,curve,Yield curve (10y minus 3m),1.26,0
+2022-07-01,curve,Yield curve (10y minus 3m),0.26,0
+2022-08-01,curve,Yield curve (10y minus 3m),0.19,0
+2022-09-01,curve,Yield curve (10y minus 3m),0.5,0
+2022-10-01,curve,Yield curve (10y minus 3m),-0.12,0
+2022-11-01,curve,Yield curve (10y minus 3m),-0.69,0
+2022-12-01,curve,Yield curve (10y minus 3m),-0.54,0
+2023-01-01,curve,Yield curve (10y minus 3m),-1.18,0
+2023-02-01,curve,Yield curve (10y minus 3m),-0.96,0
+2023-03-01,curve,Yield curve (10y minus 3m),-1.37,0
+2023-04-01,curve,Yield curve (10y minus 3m),-1.66,0
+2023-05-01,curve,Yield curve (10y minus 3m),-1.88,0
+2023-06-01,curve,Yield curve (10y minus 3m),-1.62,0
+2023-07-01,curve,Yield curve (10y minus 3m),-1.58,0
+2023-08-01,curve,Yield curve (10y minus 3m),-1.47,0
+2023-09-01,curve,Yield curve (10y minus 3m),-0.96,0
+2023-10-01,curve,Yield curve (10y minus 3m),-0.71,0
+2023-11-01,curve,Yield curve (10y minus 3m),-1.08,0
+2023-12-01,curve,Yield curve (10y minus 3m),-1.52,0
+2024-01-01,curve,Yield curve (10y minus 3m),-1.43,0
+2024-02-01,curve,Yield curve (10y minus 3m),-1.2,0
+2024-03-01,curve,Yield curve (10y minus 3m),-1.26,0
+2024-04-01,curve,Yield curve (10y minus 3m),-0.77,0
+2024-05-01,curve,Yield curve (10y minus 3m),-0.95,0
+2024-06-01,curve,Yield curve (10y minus 3m),-1.12,0
+2024-07-01,curve,Yield curve (10y minus 3m),-1.32,0
+2024-08-01,curve,Yield curve (10y minus 3m),-1.3,0
+2024-09-01,curve,Yield curve (10y minus 3m),-0.92,0
+2024-10-01,curve,Yield curve (10y minus 3m),-0.36,0
+2024-11-01,curve,Yield curve (10y minus 3m),-0.4,0
+2024-12-01,curve,Yield curve (10y minus 3m),0.21,0
+2025-01-01,curve,Yield curve (10y minus 3m),0.27,0
+2025-02-01,curve,Yield curve (10y minus 3m),-0.08,0
+2025-03-01,curve,Yield curve (10y minus 3m),-0.09,0
+2025-04-01,curve,Yield curve (10y minus 3m),-0.14,0
+2025-05-01,curve,Yield curve (10y minus 3m),0.05,0
+2025-06-01,curve,Yield curve (10y minus 3m),-0.17,0
+2025-07-01,curve,Yield curve (10y minus 3m),-0.04,0
+2025-08-01,curve,Yield curve (10y minus 3m),0,0
+2025-09-01,curve,Yield curve (10y minus 3m),0.14,0
+2025-10-01,curve,Yield curve (10y minus 3m),0.22,0
+2025-11-01,curve,Yield curve (10y minus 3m),0.14,0
+2025-12-01,curve,Yield curve (10y minus 3m),0.51,0
+2026-01-01,curve,Yield curve (10y minus 3m),0.59,0
+2026-02-01,curve,Yield curve (10y minus 3m),0.3,0
+2026-03-01,curve,Yield curve (10y minus 3m),0.6,0
+2026-04-01,curve,Yield curve (10y minus 3m),0.72,0
+2026-05-01,curve,Yield curve (10y minus 3m),0.76,0
+2026-06-01,curve,Yield curve (10y minus 3m),0.57,0
+2026-07-01,curve,Yield curve (10y minus 3m),0.92,0
+2026-08-01,curve,Yield curve (10y minus 3m),0.82,0
+2000-01-01,prob,Smoothed recession probability,0.2,20
+2000-02-01,prob,Smoothed recession probability,0.2,20
+2000-03-01,prob,Smoothed recession probability,0.1,20
+2000-04-01,prob,Smoothed recession probability,0.1,20
+2000-05-01,prob,Smoothed recession probability,0.5,20
+2000-06-01,prob,Smoothed recession probability,0.6,20
+2000-07-01,prob,Smoothed recession probability,1.1,20
+2000-08-01,prob,Smoothed recession probability,1.3,20
+2000-09-01,prob,Smoothed recession probability,1.6,20
+2000-10-01,prob,Smoothed recession probability,3.9,20
+2000-11-01,prob,Smoothed recession probability,5.7,20
+2000-12-01,prob,Smoothed recession probability,8.8,20
+2001-01-01,prob,Smoothed recession probability,15.2,20
+2001-02-01,prob,Smoothed recession probability,19.6,20
+2001-03-01,prob,Smoothed recession probability,24.3,20
+2001-04-01,prob,Smoothed recession probability,28.3,20
+2001-05-01,prob,Smoothed recession probability,27.7,20
+2001-06-01,prob,Smoothed recession probability,28,20
+2001-07-01,prob,Smoothed recession probability,26.8,20
+2001-08-01,prob,Smoothed recession probability,24.8,20
+2001-09-01,prob,Smoothed recession probability,24.2,20
+2001-10-01,prob,Smoothed recession probability,17.6,20
+2001-11-01,prob,Smoothed recession probability,13.5,20
+2001-12-01,prob,Smoothed recession probability,5.9,20
+2002-01-01,prob,Smoothed recession probability,2.5,20
+2002-02-01,prob,Smoothed recession probability,1.7,20
+2002-03-01,prob,Smoothed recession probability,0.7,20
+2002-04-01,prob,Smoothed recession probability,0.4,20
+2002-05-01,prob,Smoothed recession probability,0.4,20
+2002-06-01,prob,Smoothed recession probability,0.4,20
+2002-07-01,prob,Smoothed recession probability,0.8,20
+2002-08-01,prob,Smoothed recession probability,0.6,20
+2002-09-01,prob,Smoothed recession probability,0.7,20
+2002-10-01,prob,Smoothed recession probability,0.5,20
+2002-11-01,prob,Smoothed recession probability,0.5,20
+2002-12-01,prob,Smoothed recession probability,1.1,20
+2003-01-01,prob,Smoothed recession probability,0.5,20
+2003-02-01,prob,Smoothed recession probability,0.9,20
+2003-03-01,prob,Smoothed recession probability,0.7,20
+2003-04-01,prob,Smoothed recession probability,0.5,20
+2003-05-01,prob,Smoothed recession probability,0.2,20
+2003-06-01,prob,Smoothed recession probability,0.1,20
+2003-07-01,prob,Smoothed recession probability,0.1,20
+2003-08-01,prob,Smoothed recession probability,0.1,20
+2003-09-01,prob,Smoothed recession probability,0,20
+2003-10-01,prob,Smoothed recession probability,0,20
+2003-11-01,prob,Smoothed recession probability,0,20
+2003-12-01,prob,Smoothed recession probability,0.3,20
+2004-01-01,prob,Smoothed recession probability,0.2,20
+2004-02-01,prob,Smoothed recession probability,0,20
+2004-03-01,prob,Smoothed recession probability,0,20
+2004-04-01,prob,Smoothed recession probability,0.1,20
+2004-05-01,prob,Smoothed recession probability,0.1,20
+2004-06-01,prob,Smoothed recession probability,1,20
+2004-07-01,prob,Smoothed recession probability,0.1,20
+2004-08-01,prob,Smoothed recession probability,0.1,20
+2004-09-01,prob,Smoothed recession probability,0.1,20
+2004-10-01,prob,Smoothed recession probability,0,20
+2004-11-01,prob,Smoothed recession probability,0.1,20
+2004-12-01,prob,Smoothed recession probability,0,20
+2005-01-01,prob,Smoothed recession probability,0,20
+2005-02-01,prob,Smoothed recession probability,0,20
+2005-03-01,prob,Smoothed recession probability,0.1,20
+2005-04-01,prob,Smoothed recession probability,0.1,20
+2005-05-01,prob,Smoothed recession probability,0.1,20
+2005-06-01,prob,Smoothed recession probability,0.1,20
+2005-07-01,prob,Smoothed recession probability,0.6,20
+2005-08-01,prob,Smoothed recession probability,2.3,20
+2005-09-01,prob,Smoothed recession probability,11.1,20
+2005-10-01,prob,Smoothed recession probability,0.1,20
+2005-11-01,prob,Smoothed recession probability,0,20
+2005-12-01,prob,Smoothed recession probability,0.1,20
+2006-01-01,prob,Smoothed recession probability,0.1,20
+2006-02-01,prob,Smoothed recession probability,0.1,20
+2006-03-01,prob,Smoothed recession probability,0.1,20
+2006-04-01,prob,Smoothed recession probability,0.2,20
+2006-05-01,prob,Smoothed recession probability,0.2,20
+2006-06-01,prob,Smoothed recession probability,0.2,20
+2006-07-01,prob,Smoothed recession probability,0.1,20
+2006-08-01,prob,Smoothed recession probability,0.1,20
+2006-09-01,prob,Smoothed recession probability,0.2,20
+2006-10-01,prob,Smoothed recession probability,0.1,20
+2006-11-01,prob,Smoothed recession probability,0,20
+2006-12-01,prob,Smoothed recession probability,0,20
+2007-01-01,prob,Smoothed recession probability,0.3,20
+2007-02-01,prob,Smoothed recession probability,0.1,20
+2007-03-01,prob,Smoothed recession probability,0.1,20
+2007-04-01,prob,Smoothed recession probability,0.1,20
+2007-05-01,prob,Smoothed recession probability,0.3,20
+2007-06-01,prob,Smoothed recession probability,0.4,20
+2007-07-01,prob,Smoothed recession probability,0.6,20
+2007-08-01,prob,Smoothed recession probability,0.5,20
+2007-09-01,prob,Smoothed recession probability,0.7,20
+2007-10-01,prob,Smoothed recession probability,1.5,20
+2007-11-01,prob,Smoothed recession probability,2.8,20
+2007-12-01,prob,Smoothed recession probability,8.9,20
+2008-01-01,prob,Smoothed recession probability,21.3,20
+2008-02-01,prob,Smoothed recession probability,44,20
+2008-03-01,prob,Smoothed recession probability,61,20
+2008-04-01,prob,Smoothed recession probability,74.5,20
+2008-05-01,prob,Smoothed recession probability,81.6,20
+2008-06-01,prob,Smoothed recession probability,87.2,20
+2008-07-01,prob,Smoothed recession probability,95.5,20
+2008-08-01,prob,Smoothed recession probability,99.7,20
+2008-09-01,prob,Smoothed recession probability,100,20
+2008-10-01,prob,Smoothed recession probability,90.5,20
+2008-11-01,prob,Smoothed recession probability,99.9,20
+2008-12-01,prob,Smoothed recession probability,100,20
+2009-01-01,prob,Smoothed recession probability,100,20
+2009-02-01,prob,Smoothed recession probability,99.7,20
+2009-03-01,prob,Smoothed recession probability,99.7,20
+2009-04-01,prob,Smoothed recession probability,97,20
+2009-05-01,prob,Smoothed recession probability,88.8,20
+2009-06-01,prob,Smoothed recession probability,62.3,20
+2009-07-01,prob,Smoothed recession probability,3.3,20
+2009-08-01,prob,Smoothed recession probability,0.8,20
+2009-09-01,prob,Smoothed recession probability,0.5,20
+2009-10-01,prob,Smoothed recession probability,0.3,20
+2009-11-01,prob,Smoothed recession probability,0.2,20
+2009-12-01,prob,Smoothed recession probability,0.2,20
+2010-01-01,prob,Smoothed recession probability,0.1,20
+2010-02-01,prob,Smoothed recession probability,0,20
+2010-03-01,prob,Smoothed recession probability,0,20
+2010-04-01,prob,Smoothed recession probability,0,20
+2010-05-01,prob,Smoothed recession probability,0,20
+2010-06-01,prob,Smoothed recession probability,0.4,20
+2010-07-01,prob,Smoothed recession probability,0.2,20
+2010-08-01,prob,Smoothed recession probability,0,20
+2010-09-01,prob,Smoothed recession probability,0.1,20
+2010-10-01,prob,Smoothed recession probability,0.1,20
+2010-11-01,prob,Smoothed recession probability,0,20
+2010-12-01,prob,Smoothed recession probability,0.1,20
+2011-01-01,prob,Smoothed recession probability,0.1,20
+2011-02-01,prob,Smoothed recession probability,0.3,20
+2011-03-01,prob,Smoothed recession probability,0.1,20
+2011-04-01,prob,Smoothed recession probability,0.3,20
+2011-05-01,prob,Smoothed recession probability,0.1,20
+2011-06-01,prob,Smoothed recession probability,0,20
+2011-07-01,prob,Smoothed recession probability,0,20
+2011-08-01,prob,Smoothed recession probability,0,20
+2011-09-01,prob,Smoothed recession probability,0.1,20
+2011-10-01,prob,Smoothed recession probability,0,20
+2011-11-01,prob,Smoothed recession probability,0.1,20
+2011-12-01,prob,Smoothed recession probability,0,20
+2012-01-01,prob,Smoothed recession probability,0.1,20
+2012-02-01,prob,Smoothed recession probability,0.1,20
+2012-03-01,prob,Smoothed recession probability,0.5,20
+2012-04-01,prob,Smoothed recession probability,0.1,20
+2012-05-01,prob,Smoothed recession probability,0.1,20
+2012-06-01,prob,Smoothed recession probability,0.4,20
+2012-07-01,prob,Smoothed recession probability,0.3,20
+2012-08-01,prob,Smoothed recession probability,0.3,20
+2012-09-01,prob,Smoothed recession probability,0.1,20
+2012-10-01,prob,Smoothed recession probability,0.1,20
+2012-11-01,prob,Smoothed recession probability,0,20
+2012-12-01,prob,Smoothed recession probability,0.1,20
+2013-01-01,prob,Smoothed recession probability,0.1,20
+2013-02-01,prob,Smoothed recession probability,0,20
+2013-03-01,prob,Smoothed recession probability,0.1,20
+2013-04-01,prob,Smoothed recession probability,0.1,20
+2013-05-01,prob,Smoothed recession probability,0.1,20
+2013-06-01,prob,Smoothed recession probability,0.2,20
+2013-07-01,prob,Smoothed recession probability,0.2,20
+2013-08-01,prob,Smoothed recession probability,0,20
+2013-09-01,prob,Smoothed recession probability,0.1,20
+2013-10-01,prob,Smoothed recession probability,0.1,20
+2013-11-01,prob,Smoothed recession probability,0,20
+2013-12-01,prob,Smoothed recession probability,0.2,20
+2014-01-01,prob,Smoothed recession probability,0.2,20
+2014-02-01,prob,Smoothed recession probability,0,20
+2014-03-01,prob,Smoothed recession probability,0,20
+2014-04-01,prob,Smoothed recession probability,0,20
+2014-05-01,prob,Smoothed recession probability,0,20
+2014-06-01,prob,Smoothed recession probability,0,20
+2014-07-01,prob,Smoothed recession probability,0,20
+2014-08-01,prob,Smoothed recession probability,0.1,20
+2014-09-01,prob,Smoothed recession probability,0.1,20
+2014-10-01,prob,Smoothed recession probability,0.1,20
+2014-11-01,prob,Smoothed recession probability,0.1,20
+2014-12-01,prob,Smoothed recession probability,0.4,20
+2015-01-01,prob,Smoothed recession probability,1.3,20
+2015-02-01,prob,Smoothed recession probability,1.7,20
+2015-03-01,prob,Smoothed recession probability,1.6,20
+2015-04-01,prob,Smoothed recession probability,1.3,20
+2015-05-01,prob,Smoothed recession probability,1.1,20
+2015-06-01,prob,Smoothed recession probability,0.9,20
+2015-07-01,prob,Smoothed recession probability,0.6,20
+2015-08-01,prob,Smoothed recession probability,0.8,20
+2015-09-01,prob,Smoothed recession probability,1,20
+2015-10-01,prob,Smoothed recession probability,1.3,20
+2015-11-01,prob,Smoothed recession probability,1.9,20
+2015-12-01,prob,Smoothed recession probability,1.4,20
+2016-01-01,prob,Smoothed recession probability,0.9,20
+2016-02-01,prob,Smoothed recession probability,1.1,20
+2016-03-01,prob,Smoothed recession probability,1,20
+2016-04-01,prob,Smoothed recession probability,0.8,20
+2016-05-01,prob,Smoothed recession probability,0.8,20
+2016-06-01,prob,Smoothed recession probability,0.3,20
+2016-07-01,prob,Smoothed recession probability,0.2,20
+2016-08-01,prob,Smoothed recession probability,0.3,20
+2016-09-01,prob,Smoothed recession probability,0.2,20
+2016-10-01,prob,Smoothed recession probability,0.2,20
+2016-11-01,prob,Smoothed recession probability,0.2,20
+2016-12-01,prob,Smoothed recession probability,0.1,20
+2017-01-01,prob,Smoothed recession probability,0.2,20
+2017-02-01,prob,Smoothed recession probability,0.2,20
+2017-03-01,prob,Smoothed recession probability,0.1,20
+2017-04-01,prob,Smoothed recession probability,0,20
+2017-05-01,prob,Smoothed recession probability,0,20
+2017-06-01,prob,Smoothed recession probability,0.1,20
+2017-07-01,prob,Smoothed recession probability,0.2,20
+2017-08-01,prob,Smoothed recession probability,0.1,20
+2017-09-01,prob,Smoothed recession probability,0,20
+2017-10-01,prob,Smoothed recession probability,0,20
+2017-11-01,prob,Smoothed recession probability,0,20
+2017-12-01,prob,Smoothed recession probability,0.2,20
+2018-01-01,prob,Smoothed recession probability,0.3,20
+2018-02-01,prob,Smoothed recession probability,0.1,20
+2018-03-01,prob,Smoothed recession probability,0.1,20
+2018-04-01,prob,Smoothed recession probability,0,20
+2018-05-01,prob,Smoothed recession probability,0.3,20
+2018-06-01,prob,Smoothed recession probability,0.1,20
+2018-07-01,prob,Smoothed recession probability,0.1,20
+2018-08-01,prob,Smoothed recession probability,0,20
+2018-09-01,prob,Smoothed recession probability,0.2,20
+2018-10-01,prob,Smoothed recession probability,0.2,20
+2018-11-01,prob,Smoothed recession probability,0.3,20
+2018-12-01,prob,Smoothed recession probability,0.4,20
+2019-01-01,prob,Smoothed recession probability,1.6,20
+2019-02-01,prob,Smoothed recession probability,1.7,20
+2019-03-01,prob,Smoothed recession probability,1.3,20
+2019-04-01,prob,Smoothed recession probability,1.4,20
+2019-05-01,prob,Smoothed recession probability,0.8,20
+2019-06-01,prob,Smoothed recession probability,0.7,20
+2019-07-01,prob,Smoothed recession probability,0.7,20
+2019-08-01,prob,Smoothed recession probability,0.5,20
+2019-09-01,prob,Smoothed recession probability,1.9,20
+2019-10-01,prob,Smoothed recession probability,2.3,20
+2019-11-01,prob,Smoothed recession probability,0.9,20
+2019-12-01,prob,Smoothed recession probability,1,20
+2020-01-01,prob,Smoothed recession probability,0.5,20
+2020-02-01,prob,Smoothed recession probability,0.2,20
+2020-03-01,prob,Smoothed recession probability,100,20
+2020-04-01,prob,Smoothed recession probability,100,20
+2020-05-01,prob,Smoothed recession probability,0.1,20
+2020-06-01,prob,Smoothed recession probability,0.1,20
+2020-07-01,prob,Smoothed recession probability,0,20
+2020-08-01,prob,Smoothed recession probability,0,20
+2020-09-01,prob,Smoothed recession probability,0.1,20
+2020-10-01,prob,Smoothed recession probability,0.1,20
+2020-11-01,prob,Smoothed recession probability,0.3,20
+2020-12-01,prob,Smoothed recession probability,0.1,20
+2021-01-01,prob,Smoothed recession probability,0,20
+2021-02-01,prob,Smoothed recession probability,0,20
+2021-03-01,prob,Smoothed recession probability,0,20
+2021-04-01,prob,Smoothed recession probability,0.3,20
+2021-05-01,prob,Smoothed recession probability,0.2,20
+2021-06-01,prob,Smoothed recession probability,0.1,20
+2021-07-01,prob,Smoothed recession probability,0.2,20
+2021-08-01,prob,Smoothed recession probability,1.6,20
+2021-09-01,prob,Smoothed recession probability,1.5,20
+2021-10-01,prob,Smoothed recession probability,0.1,20
+2021-11-01,prob,Smoothed recession probability,0.1,20
+2021-12-01,prob,Smoothed recession probability,0.9,20
+2022-01-01,prob,Smoothed recession probability,0.8,20
+2022-02-01,prob,Smoothed recession probability,0.1,20
+2022-03-01,prob,Smoothed recession probability,0.2,20
+2022-04-01,prob,Smoothed recession probability,0.7,20
+2022-05-01,prob,Smoothed recession probability,0.9,20
+2022-06-01,prob,Smoothed recession probability,0.5,20
+2022-07-01,prob,Smoothed recession probability,0.1,20
+2022-08-01,prob,Smoothed recession probability,0.5,20
+2022-09-01,prob,Smoothed recession probability,0.6,20
+2022-10-01,prob,Smoothed recession probability,0.6,20
+2022-11-01,prob,Smoothed recession probability,1.1,20
+2022-12-01,prob,Smoothed recession probability,1.2,20
+2023-01-01,prob,Smoothed recession probability,0.1,20
+2023-02-01,prob,Smoothed recession probability,0.2,20
+2023-03-01,prob,Smoothed recession probability,0.3,20
+2023-04-01,prob,Smoothed recession probability,0.2,20
+2023-05-01,prob,Smoothed recession probability,0.2,20
+2023-06-01,prob,Smoothed recession probability,0.4,20
+2023-07-01,prob,Smoothed recession probability,0.1,20
+2023-08-01,prob,Smoothed recession probability,0.2,20
+2023-09-01,prob,Smoothed recession probability,0.3,20
+2023-10-01,prob,Smoothed recession probability,0.4,20
+2023-11-01,prob,Smoothed recession probability,0.3,20
+2023-12-01,prob,Smoothed recession probability,1,20
+2024-01-01,prob,Smoothed recession probability,2.3,20
+2024-02-01,prob,Smoothed recession probability,0.4,20
+2024-03-01,prob,Smoothed recession probability,0.4,20
+2024-04-01,prob,Smoothed recession probability,0.3,20
+2024-05-01,prob,Smoothed recession probability,0.2,20
+2024-06-01,prob,Smoothed recession probability,0.4,20
+2024-07-01,prob,Smoothed recession probability,0.7,20
+2024-08-01,prob,Smoothed recession probability,0.4,20
+2024-09-01,prob,Smoothed recession probability,0.6,20
+2024-10-01,prob,Smoothed recession probability,0.6,20
+2024-11-01,prob,Smoothed recession probability,0.2,20
+2024-12-01,prob,Smoothed recession probability,0.1,20
+2025-01-01,prob,Smoothed recession probability,0.2,20
+2025-02-01,prob,Smoothed recession probability,0.1,20
+2025-03-01,prob,Smoothed recession probability,0.1,20
+2025-04-01,prob,Smoothed recession probability,0.2,20
+2025-05-01,prob,Smoothed recession probability,0.3,20
+2025-06-01,prob,Smoothed recession probability,0.2,20
+2025-07-01,prob,Smoothed recession probability,0.1,20
+2025-08-01,prob,Smoothed recession probability,0.6,20
+2025-09-01,prob,Smoothed recession probability,0.9,20
+2025-10-01,prob,Smoothed recession probability,1.2,20
+2025-11-01,prob,Smoothed recession probability,0.6,20
+2025-12-01,prob,Smoothed recession probability,0.3,20
+2026-01-01,prob,Smoothed recession probability,0.3,20
+2026-02-01,prob,Smoothed recession probability,0.2,20
+2026-03-01,prob,Smoothed recession probability,0.3,20
+2026-04-01,prob,Smoothed recession probability,0.3,20
+2026-05-01,prob,Smoothed recession probability,0.3,20
+2026-06-01,prob,Smoothed recession probability,0.6,20
+2000-01-01,cfnai,Chicago Fed activity index,0.37,-0.7
+2000-02-01,cfnai,Chicago Fed activity index,0.18,-0.7
+2000-03-01,cfnai,Chicago Fed activity index,0.12,-0.7
+2000-04-01,cfnai,Chicago Fed activity index,0.21,-0.7
+2000-05-01,cfnai,Chicago Fed activity index,0.17,-0.7
+2000-06-01,cfnai,Chicago Fed activity index,0.06,-0.7
+2000-07-01,cfnai,Chicago Fed activity index,-0.17,-0.7
+2000-08-01,cfnai,Chicago Fed activity index,-0.18,-0.7
+2000-09-01,cfnai,Chicago Fed activity index,-0.1,-0.7
+2000-10-01,cfnai,Chicago Fed activity index,-0.17,-0.7
+2000-11-01,cfnai,Chicago Fed activity index,-0.17,-0.7
+2000-12-01,cfnai,Chicago Fed activity index,-0.38,-0.7
+2001-01-01,cfnai,Chicago Fed activity index,-0.43,-0.7
+2001-02-01,cfnai,Chicago Fed activity index,-0.5,-0.7
+2001-03-01,cfnai,Chicago Fed activity index,-0.64,-0.7
+2001-04-01,cfnai,Chicago Fed activity index,-0.72,-0.7
+2001-05-01,cfnai,Chicago Fed activity index,-0.67,-0.7
+2001-06-01,cfnai,Chicago Fed activity index,-0.75,-0.7
+2001-07-01,cfnai,Chicago Fed activity index,-0.62,-0.7
+2001-08-01,cfnai,Chicago Fed activity index,-0.62,-0.7
+2001-09-01,cfnai,Chicago Fed activity index,-0.69,-0.7
+2001-10-01,cfnai,Chicago Fed activity index,-0.58,-0.7
+2001-11-01,cfnai,Chicago Fed activity index,-0.7,-0.7
+2001-12-01,cfnai,Chicago Fed activity index,-0.44,-0.7
+2002-01-01,cfnai,Chicago Fed activity index,-0.39,-0.7
+2002-02-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2002-03-01,cfnai,Chicago Fed activity index,-0.06,-0.7
+2002-04-01,cfnai,Chicago Fed activity index,0.01,-0.7
+2002-05-01,cfnai,Chicago Fed activity index,0.07,-0.7
+2002-06-01,cfnai,Chicago Fed activity index,0.17,-0.7
+2002-07-01,cfnai,Chicago Fed activity index,0.03,-0.7
+2002-08-01,cfnai,Chicago Fed activity index,-0.01,-0.7
+2002-09-01,cfnai,Chicago Fed activity index,-0.22,-0.7
+2002-10-01,cfnai,Chicago Fed activity index,-0.25,-0.7
+2002-11-01,cfnai,Chicago Fed activity index,-0.18,-0.7
+2002-12-01,cfnai,Chicago Fed activity index,-0.27,-0.7
+2003-01-01,cfnai,Chicago Fed activity index,-0.02,-0.7
+2003-02-01,cfnai,Chicago Fed activity index,-0.22,-0.7
+2003-03-01,cfnai,Chicago Fed activity index,-0.08,-0.7
+2003-04-01,cfnai,Chicago Fed activity index,-0.43,-0.7
+2003-05-01,cfnai,Chicago Fed activity index,-0.27,-0.7
+2003-06-01,cfnai,Chicago Fed activity index,-0.16,-0.7
+2003-07-01,cfnai,Chicago Fed activity index,0.08,-0.7
+2003-08-01,cfnai,Chicago Fed activity index,0.03,-0.7
+2003-09-01,cfnai,Chicago Fed activity index,0.1,-0.7
+2003-10-01,cfnai,Chicago Fed activity index,0.11,-0.7
+2003-11-01,cfnai,Chicago Fed activity index,0.32,-0.7
+2003-12-01,cfnai,Chicago Fed activity index,0.22,-0.7
+2004-01-01,cfnai,Chicago Fed activity index,0.19,-0.7
+2004-02-01,cfnai,Chicago Fed activity index,0.18,-0.7
+2004-03-01,cfnai,Chicago Fed activity index,0.35,-0.7
+2004-04-01,cfnai,Chicago Fed activity index,0.36,-0.7
+2004-05-01,cfnai,Chicago Fed activity index,0.4,-0.7
+2004-06-01,cfnai,Chicago Fed activity index,0.12,-0.7
+2004-07-01,cfnai,Chicago Fed activity index,0.25,-0.7
+2004-08-01,cfnai,Chicago Fed activity index,0.17,-0.7
+2004-09-01,cfnai,Chicago Fed activity index,0.32,-0.7
+2004-10-01,cfnai,Chicago Fed activity index,0.3,-0.7
+2004-11-01,cfnai,Chicago Fed activity index,0.22,-0.7
+2004-12-01,cfnai,Chicago Fed activity index,0.44,-0.7
+2005-01-01,cfnai,Chicago Fed activity index,0.36,-0.7
+2005-02-01,cfnai,Chicago Fed activity index,0.48,-0.7
+2005-03-01,cfnai,Chicago Fed activity index,0.11,-0.7
+2005-04-01,cfnai,Chicago Fed activity index,0.23,-0.7
+2005-05-01,cfnai,Chicago Fed activity index,0.09,-0.7
+2005-06-01,cfnai,Chicago Fed activity index,0.32,-0.7
+2005-07-01,cfnai,Chicago Fed activity index,0.11,-0.7
+2005-08-01,cfnai,Chicago Fed activity index,0.19,-0.7
+2005-09-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2005-10-01,cfnai,Chicago Fed activity index,0.08,-0.7
+2005-11-01,cfnai,Chicago Fed activity index,0.26,-0.7
+2005-12-01,cfnai,Chicago Fed activity index,0.58,-0.7
+2006-01-01,cfnai,Chicago Fed activity index,0.52,-0.7
+2006-02-01,cfnai,Chicago Fed activity index,0.3,-0.7
+2006-03-01,cfnai,Chicago Fed activity index,0.27,-0.7
+2006-04-01,cfnai,Chicago Fed activity index,0.08,-0.7
+2006-05-01,cfnai,Chicago Fed activity index,0.05,-0.7
+2006-06-01,cfnai,Chicago Fed activity index,-0.01,-0.7
+2006-07-01,cfnai,Chicago Fed activity index,-0.08,-0.7
+2006-08-01,cfnai,Chicago Fed activity index,-0.02,-0.7
+2006-09-01,cfnai,Chicago Fed activity index,-0.03,-0.7
+2006-10-01,cfnai,Chicago Fed activity index,-0.03,-0.7
+2006-11-01,cfnai,Chicago Fed activity index,-0.13,-0.7
+2006-12-01,cfnai,Chicago Fed activity index,0.13,-0.7
+2007-01-01,cfnai,Chicago Fed activity index,0.06,-0.7
+2007-02-01,cfnai,Chicago Fed activity index,0.16,-0.7
+2007-03-01,cfnai,Chicago Fed activity index,-0.01,-0.7
+2007-04-01,cfnai,Chicago Fed activity index,0.12,-0.7
+2007-05-01,cfnai,Chicago Fed activity index,0.07,-0.7
+2007-06-01,cfnai,Chicago Fed activity index,-0.02,-0.7
+2007-07-01,cfnai,Chicago Fed activity index,-0.12,-0.7
+2007-08-01,cfnai,Chicago Fed activity index,-0.16,-0.7
+2007-09-01,cfnai,Chicago Fed activity index,-0.18,-0.7
+2007-10-01,cfnai,Chicago Fed activity index,-0.14,-0.7
+2007-11-01,cfnai,Chicago Fed activity index,-0.14,-0.7
+2007-12-01,cfnai,Chicago Fed activity index,-0.26,-0.7
+2008-01-01,cfnai,Chicago Fed activity index,-0.25,-0.7
+2008-02-01,cfnai,Chicago Fed activity index,-0.49,-0.7
+2008-03-01,cfnai,Chicago Fed activity index,-0.6,-0.7
+2008-04-01,cfnai,Chicago Fed activity index,-0.75,-0.7
+2008-05-01,cfnai,Chicago Fed activity index,-0.76,-0.7
+2008-06-01,cfnai,Chicago Fed activity index,-0.74,-0.7
+2008-07-01,cfnai,Chicago Fed activity index,-0.92,-0.7
+2008-08-01,cfnai,Chicago Fed activity index,-1.06,-0.7
+2008-09-01,cfnai,Chicago Fed activity index,-1.68,-0.7
+2008-10-01,cfnai,Chicago Fed activity index,-1.66,-0.7
+2008-11-01,cfnai,Chicago Fed activity index,-2.02,-0.7
+2008-12-01,cfnai,Chicago Fed activity index,-2.05,-0.7
+2009-01-01,cfnai,Chicago Fed activity index,-2.69,-0.7
+2009-02-01,cfnai,Chicago Fed activity index,-2.32,-0.7
+2009-03-01,cfnai,Chicago Fed activity index,-2.21,-0.7
+2009-04-01,cfnai,Chicago Fed activity index,-1.73,-0.7
+2009-05-01,cfnai,Chicago Fed activity index,-1.72,-0.7
+2009-06-01,cfnai,Chicago Fed activity index,-1.25,-0.7
+2009-07-01,cfnai,Chicago Fed activity index,-0.66,-0.7
+2009-08-01,cfnai,Chicago Fed activity index,-0.27,-0.7
+2009-09-01,cfnai,Chicago Fed activity index,-0.02,-0.7
+2009-10-01,cfnai,Chicago Fed activity index,-0.17,-0.7
+2009-11-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2009-12-01,cfnai,Chicago Fed activity index,-0.17,-0.7
+2010-01-01,cfnai,Chicago Fed activity index,-0.02,-0.7
+2010-02-01,cfnai,Chicago Fed activity index,-0.16,-0.7
+2010-03-01,cfnai,Chicago Fed activity index,0.1,-0.7
+2010-04-01,cfnai,Chicago Fed activity index,0.18,-0.7
+2010-05-01,cfnai,Chicago Fed activity index,0.39,-0.7
+2010-06-01,cfnai,Chicago Fed activity index,0.18,-0.7
+2010-07-01,cfnai,Chicago Fed activity index,0.09,-0.7
+2010-08-01,cfnai,Chicago Fed activity index,-0.06,-0.7
+2010-09-01,cfnai,Chicago Fed activity index,-0.06,-0.7
+2010-10-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2010-11-01,cfnai,Chicago Fed activity index,-0.16,-0.7
+2010-12-01,cfnai,Chicago Fed activity index,-0.07,-0.7
+2011-01-01,cfnai,Chicago Fed activity index,-0.03,-0.7
+2011-02-01,cfnai,Chicago Fed activity index,-0.09,-0.7
+2011-03-01,cfnai,Chicago Fed activity index,0.02,-0.7
+2011-04-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2011-05-01,cfnai,Chicago Fed activity index,-0.14,-0.7
+2011-06-01,cfnai,Chicago Fed activity index,-0.27,-0.7
+2011-07-01,cfnai,Chicago Fed activity index,-0.06,-0.7
+2011-08-01,cfnai,Chicago Fed activity index,0.06,-0.7
+2011-09-01,cfnai,Chicago Fed activity index,-0.03,-0.7
+2011-10-01,cfnai,Chicago Fed activity index,-0.03,-0.7
+2011-11-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2011-12-01,cfnai,Chicago Fed activity index,0.03,-0.7
+2012-01-01,cfnai,Chicago Fed activity index,0.1,-0.7
+2012-02-01,cfnai,Chicago Fed activity index,0.21,-0.7
+2012-03-01,cfnai,Chicago Fed activity index,-0.01,-0.7
+2012-04-01,cfnai,Chicago Fed activity index,-0.11,-0.7
+2012-05-01,cfnai,Chicago Fed activity index,-0.16,-0.7
+2012-06-01,cfnai,Chicago Fed activity index,-0.14,-0.7
+2012-07-01,cfnai,Chicago Fed activity index,-0.26,-0.7
+2012-08-01,cfnai,Chicago Fed activity index,-0.35,-0.7
+2012-09-01,cfnai,Chicago Fed activity index,-0.28,-0.7
+2012-10-01,cfnai,Chicago Fed activity index,-0.28,-0.7
+2012-11-01,cfnai,Chicago Fed activity index,-0.03,-0.7
+2012-12-01,cfnai,Chicago Fed activity index,0.05,-0.7
+2013-01-01,cfnai,Chicago Fed activity index,0.03,-0.7
+2013-02-01,cfnai,Chicago Fed activity index,0.01,-0.7
+2013-03-01,cfnai,Chicago Fed activity index,-0.12,-0.7
+2013-04-01,cfnai,Chicago Fed activity index,-0.1,-0.7
+2013-05-01,cfnai,Chicago Fed activity index,-0.13,-0.7
+2013-06-01,cfnai,Chicago Fed activity index,-0.1,-0.7
+2013-07-01,cfnai,Chicago Fed activity index,-0.17,-0.7
+2013-08-01,cfnai,Chicago Fed activity index,-0.12,-0.7
+2013-09-01,cfnai,Chicago Fed activity index,-0.04,-0.7
+2013-10-01,cfnai,Chicago Fed activity index,0.14,-0.7
+2013-11-01,cfnai,Chicago Fed activity index,0.14,-0.7
+2013-12-01,cfnai,Chicago Fed activity index,0.05,-0.7
+2014-01-01,cfnai,Chicago Fed activity index,-0.18,-0.7
+2014-02-01,cfnai,Chicago Fed activity index,-0.14,-0.7
+2014-03-01,cfnai,Chicago Fed activity index,0.08,-0.7
+2014-04-01,cfnai,Chicago Fed activity index,0.32,-0.7
+2014-05-01,cfnai,Chicago Fed activity index,0.22,-0.7
+2014-06-01,cfnai,Chicago Fed activity index,0.1,-0.7
+2014-07-01,cfnai,Chicago Fed activity index,0.19,-0.7
+2014-08-01,cfnai,Chicago Fed activity index,0.07,-0.7
+2014-09-01,cfnai,Chicago Fed activity index,0.03,-0.7
+2014-10-01,cfnai,Chicago Fed activity index,-0.06,-0.7
+2014-11-01,cfnai,Chicago Fed activity index,0.11,-0.7
+2014-12-01,cfnai,Chicago Fed activity index,0.12,-0.7
+2015-01-01,cfnai,Chicago Fed activity index,0.02,-0.7
+2015-02-01,cfnai,Chicago Fed activity index,-0.22,-0.7
+2015-03-01,cfnai,Chicago Fed activity index,-0.24,-0.7
+2015-04-01,cfnai,Chicago Fed activity index,-0.16,-0.7
+2015-05-01,cfnai,Chicago Fed activity index,-0.11,-0.7
+2015-06-01,cfnai,Chicago Fed activity index,-0.16,-0.7
+2015-07-01,cfnai,Chicago Fed activity index,-0.04,-0.7
+2015-08-01,cfnai,Chicago Fed activity index,-0.02,-0.7
+2015-09-01,cfnai,Chicago Fed activity index,-0.02,-0.7
+2015-10-01,cfnai,Chicago Fed activity index,-0.22,-0.7
+2015-11-01,cfnai,Chicago Fed activity index,-0.25,-0.7
+2015-12-01,cfnai,Chicago Fed activity index,-0.31,-0.7
+2016-01-01,cfnai,Chicago Fed activity index,-0.19,-0.7
+2016-02-01,cfnai,Chicago Fed activity index,-0.14,-0.7
+2016-03-01,cfnai,Chicago Fed activity index,-0.16,-0.7
+2016-04-01,cfnai,Chicago Fed activity index,-0.22,-0.7
+2016-05-01,cfnai,Chicago Fed activity index,-0.26,-0.7
+2016-06-01,cfnai,Chicago Fed activity index,-0.11,-0.7
+2016-07-01,cfnai,Chicago Fed activity index,-0.06,-0.7
+2016-08-01,cfnai,Chicago Fed activity index,-0.01,-0.7
+2016-09-01,cfnai,Chicago Fed activity index,-0.09,-0.7
+2016-10-01,cfnai,Chicago Fed activity index,-0.12,-0.7
+2016-11-01,cfnai,Chicago Fed activity index,-0.12,-0.7
+2016-12-01,cfnai,Chicago Fed activity index,0.03,-0.7
+2017-01-01,cfnai,Chicago Fed activity index,0.02,-0.7
+2017-02-01,cfnai,Chicago Fed activity index,0.06,-0.7
+2017-03-01,cfnai,Chicago Fed activity index,-0.06,-0.7
+2017-04-01,cfnai,Chicago Fed activity index,0.09,-0.7
+2017-05-01,cfnai,Chicago Fed activity index,0.13,-0.7
+2017-06-01,cfnai,Chicago Fed activity index,0.17,-0.7
+2017-07-01,cfnai,Chicago Fed activity index,0.01,-0.7
+2017-08-01,cfnai,Chicago Fed activity index,0,-0.7
+2017-09-01,cfnai,Chicago Fed activity index,0.01,-0.7
+2017-10-01,cfnai,Chicago Fed activity index,0.25,-0.7
+2017-11-01,cfnai,Chicago Fed activity index,0.32,-0.7
+2017-12-01,cfnai,Chicago Fed activity index,0.33,-0.7
+2018-01-01,cfnai,Chicago Fed activity index,0.07,-0.7
+2018-02-01,cfnai,Chicago Fed activity index,0.15,-0.7
+2018-03-01,cfnai,Chicago Fed activity index,0.12,-0.7
+2018-04-01,cfnai,Chicago Fed activity index,0.32,-0.7
+2018-05-01,cfnai,Chicago Fed activity index,0.12,-0.7
+2018-06-01,cfnai,Chicago Fed activity index,0.16,-0.7
+2018-07-01,cfnai,Chicago Fed activity index,0.04,-0.7
+2018-08-01,cfnai,Chicago Fed activity index,0.19,-0.7
+2018-09-01,cfnai,Chicago Fed activity index,0.12,-0.7
+2018-10-01,cfnai,Chicago Fed activity index,0.03,-0.7
+2018-11-01,cfnai,Chicago Fed activity index,-0.06,-0.7
+2018-12-01,cfnai,Chicago Fed activity index,-0.11,-0.7
+2019-01-01,cfnai,Chicago Fed activity index,-0.16,-0.7
+2019-02-01,cfnai,Chicago Fed activity index,-0.3,-0.7
+2019-03-01,cfnai,Chicago Fed activity index,-0.29,-0.7
+2019-04-01,cfnai,Chicago Fed activity index,-0.34,-0.7
+2019-05-01,cfnai,Chicago Fed activity index,-0.2,-0.7
+2019-06-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2019-07-01,cfnai,Chicago Fed activity index,-0.1,-0.7
+2019-08-01,cfnai,Chicago Fed activity index,-0.05,-0.7
+2019-09-01,cfnai,Chicago Fed activity index,-0.21,-0.7
+2019-10-01,cfnai,Chicago Fed activity index,-0.34,-0.7
+2019-11-01,cfnai,Chicago Fed activity index,-0.34,-0.7
+2019-12-01,cfnai,Chicago Fed activity index,-0.31,-0.7
+2020-01-01,cfnai,Chicago Fed activity index,-0.13,-0.7
+2020-02-01,cfnai,Chicago Fed activity index,-0.18,-0.7
+2020-03-01,cfnai,Chicago Fed activity index,-1.52,-0.7
+2020-04-01,cfnai,Chicago Fed activity index,-7.54,-0.7
+2020-05-01,cfnai,Chicago Fed activity index,-5.98,-0.7
+2020-06-01,cfnai,Chicago Fed activity index,-2.41,-0.7
+2020-07-01,cfnai,Chicago Fed activity index,4.58,-0.7
+2020-08-01,cfnai,Chicago Fed activity index,3.41,-0.7
+2020-09-01,cfnai,Chicago Fed activity index,1.47,-0.7
+2020-10-01,cfnai,Chicago Fed activity index,0.93,-0.7
+2020-11-01,cfnai,Chicago Fed activity index,0.6,-0.7
+2020-12-01,cfnai,Chicago Fed activity index,0.66,-0.7
+2021-01-01,cfnai,Chicago Fed activity index,0.61,-0.7
+2021-02-01,cfnai,Chicago Fed activity index,-0.1,-0.7
+2021-03-01,cfnai,Chicago Fed activity index,0.47,-0.7
+2021-04-01,cfnai,Chicago Fed activity index,0.23,-0.7
+2021-05-01,cfnai,Chicago Fed activity index,0.92,-0.7
+2021-06-01,cfnai,Chicago Fed activity index,0.23,-0.7
+2021-07-01,cfnai,Chicago Fed activity index,0.44,-0.7
+2021-08-01,cfnai,Chicago Fed activity index,0.35,-0.7
+2021-09-01,cfnai,Chicago Fed activity index,0.19,-0.7
+2021-10-01,cfnai,Chicago Fed activity index,0.25,-0.7
+2021-11-01,cfnai,Chicago Fed activity index,0.48,-0.7
+2021-12-01,cfnai,Chicago Fed activity index,0.59,-0.7
+2022-01-01,cfnai,Chicago Fed activity index,0.26,-0.7
+2022-02-01,cfnai,Chicago Fed activity index,0.18,-0.7
+2022-03-01,cfnai,Chicago Fed activity index,0.26,-0.7
+2022-04-01,cfnai,Chicago Fed activity index,0.28,-0.7
+2022-05-01,cfnai,Chicago Fed activity index,0.01,-0.7
+2022-06-01,cfnai,Chicago Fed activity index,-0.22,-0.7
+2022-07-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2022-08-01,cfnai,Chicago Fed activity index,0,-0.7
+2022-09-01,cfnai,Chicago Fed activity index,0.08,-0.7
+2022-10-01,cfnai,Chicago Fed activity index,0.03,-0.7
+2022-11-01,cfnai,Chicago Fed activity index,-0.19,-0.7
+2022-12-01,cfnai,Chicago Fed activity index,-0.34,-0.7
+2023-01-01,cfnai,Chicago Fed activity index,-0.17,-0.7
+2023-02-01,cfnai,Chicago Fed activity index,-0.11,-0.7
+2023-03-01,cfnai,Chicago Fed activity index,-0.09,-0.7
+2023-04-01,cfnai,Chicago Fed activity index,-0.27,-0.7
+2023-05-01,cfnai,Chicago Fed activity index,-0.18,-0.7
+2023-06-01,cfnai,Chicago Fed activity index,-0.18,-0.7
+2023-07-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2023-08-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2023-09-01,cfnai,Chicago Fed activity index,-0.02,-0.7
+2023-10-01,cfnai,Chicago Fed activity index,-0.24,-0.7
+2023-11-01,cfnai,Chicago Fed activity index,-0.13,-0.7
+2023-12-01,cfnai,Chicago Fed activity index,-0.16,-0.7
+2024-01-01,cfnai,Chicago Fed activity index,-0.32,-0.7
+2024-02-01,cfnai,Chicago Fed activity index,-0.28,-0.7
+2024-03-01,cfnai,Chicago Fed activity index,-0.28,-0.7
+2024-04-01,cfnai,Chicago Fed activity index,-0.08,-0.7
+2024-05-01,cfnai,Chicago Fed activity index,-0.12,-0.7
+2024-06-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2024-07-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2024-08-01,cfnai,Chicago Fed activity index,-0.23,-0.7
+2024-09-01,cfnai,Chicago Fed activity index,-0.25,-0.7
+2024-10-01,cfnai,Chicago Fed activity index,-0.31,-0.7
+2024-11-01,cfnai,Chicago Fed activity index,-0.3,-0.7
+2024-12-01,cfnai,Chicago Fed activity index,-0.09,-0.7
+2025-01-01,cfnai,Chicago Fed activity index,-0.07,-0.7
+2025-02-01,cfnai,Chicago Fed activity index,0.07,-0.7
+2025-03-01,cfnai,Chicago Fed activity index,0.01,-0.7
+2025-04-01,cfnai,Chicago Fed activity index,0.06,-0.7
+2025-05-01,cfnai,Chicago Fed activity index,-0.17,-0.7
+2025-06-01,cfnai,Chicago Fed activity index,-0.25,-0.7
+2025-07-01,cfnai,Chicago Fed activity index,-0.12,-0.7
+2025-08-01,cfnai,Chicago Fed activity index,-0.14,-0.7
+2025-09-01,cfnai,Chicago Fed activity index,-0.22,-0.7
+2025-10-01,cfnai,Chicago Fed activity index,-0.39,-0.7
+2025-11-01,cfnai,Chicago Fed activity index,-0.37,-0.7
+2025-12-01,cfnai,Chicago Fed activity index,-0.29,-0.7
+2026-01-01,cfnai,Chicago Fed activity index,-0.15,-0.7
+2026-02-01,cfnai,Chicago Fed activity index,0.03,-0.7
+2026-03-01,cfnai,Chicago Fed activity index,-0.01,-0.7
+2026-04-01,cfnai,Chicago Fed activity index,0.03,-0.7
+2026-05-01,cfnai,Chicago Fed activity index,-0.1,-0.7
+2026-06-01,cfnai,Chicago Fed activity index,-0.05,-0.7
+2000-01-01,claims,Initial jobless claims,285000,10
+2000-02-01,claims,Initial jobless claims,280000,10
+2000-03-01,claims,Initial jobless claims,272000,10
+2000-04-01,claims,Initial jobless claims,291000,10
+2000-05-01,claims,Initial jobless claims,280000,10
+2000-06-01,claims,Initial jobless claims,296000,10
+2000-07-01,claims,Initial jobless claims,298000,10
+2000-08-01,claims,Initial jobless claims,312000,10
+2000-09-01,claims,Initial jobless claims,292000,10
+2000-10-01,claims,Initial jobless claims,301000,10
+2000-11-01,claims,Initial jobless claims,356000,10
+2000-12-01,claims,Initial jobless claims,353000,10
+2001-01-01,claims,Initial jobless claims,362000,10
+2001-02-01,claims,Initial jobless claims,386000,10
+2001-03-01,claims,Initial jobless claims,388000,10
+2001-04-01,claims,Initial jobless claims,406000,10
+2001-05-01,claims,Initial jobless claims,405000,10
+2001-06-01,claims,Initial jobless claims,394000,10
+2001-07-01,claims,Initial jobless claims,388000,10
+2001-08-01,claims,Initial jobless claims,395000,10
+2001-09-01,claims,Initial jobless claims,517000,10
+2001-10-01,claims,Initial jobless claims,483000,10
+2001-11-01,claims,Initial jobless claims,491000,10
+2001-12-01,claims,Initial jobless claims,421000,10
+2002-01-01,claims,Initial jobless claims,414000,10
+2002-02-01,claims,Initial jobless claims,398000,10
+2002-03-01,claims,Initial jobless claims,479000,10
+2002-04-01,claims,Initial jobless claims,414000,10
+2002-05-01,claims,Initial jobless claims,403000,10
+2002-06-01,claims,Initial jobless claims,386000,10
+2002-07-01,claims,Initial jobless claims,390000,10
+2002-08-01,claims,Initial jobless claims,394000,10
+2002-09-01,claims,Initial jobless claims,409000,10
+2002-10-01,claims,Initial jobless claims,409000,10
+2002-11-01,claims,Initial jobless claims,377000,10
+2002-12-01,claims,Initial jobless claims,409000,10
+2003-01-01,claims,Initial jobless claims,407000,10
+2003-02-01,claims,Initial jobless claims,421000,10
+2003-03-01,claims,Initial jobless claims,436000,10
+2003-04-01,claims,Initial jobless claims,444000,10
+2003-05-01,claims,Initial jobless claims,431000,10
+2003-06-01,claims,Initial jobless claims,429000,10
+2003-07-01,claims,Initial jobless claims,398000,10
+2003-08-01,claims,Initial jobless claims,407000,10
+2003-09-01,claims,Initial jobless claims,387000,10
+2003-10-01,claims,Initial jobless claims,379000,10
+2003-11-01,claims,Initial jobless claims,357000,10
+2003-12-01,claims,Initial jobless claims,349000,10
+2004-01-01,claims,Initial jobless claims,376000,10
+2004-02-01,claims,Initial jobless claims,348000,10
+2004-03-01,claims,Initial jobless claims,340000,10
+2004-04-01,claims,Initial jobless claims,339000,10
+2004-05-01,claims,Initial jobless claims,337000,10
+2004-06-01,claims,Initial jobless claims,348000,10
+2004-07-01,claims,Initial jobless claims,341000,10
+2004-08-01,claims,Initial jobless claims,352000,10
+2004-09-01,claims,Initial jobless claims,351000,10
+2004-10-01,claims,Initial jobless claims,332000,10
+2004-11-01,claims,Initial jobless claims,335000,10
+2004-12-01,claims,Initial jobless claims,320000,10
+2005-01-01,claims,Initial jobless claims,331000,10
+2005-02-01,claims,Initial jobless claims,314000,10
+2005-03-01,claims,Initial jobless claims,342000,10
+2005-04-01,claims,Initial jobless claims,334000,10
+2005-05-01,claims,Initial jobless claims,340000,10
+2005-06-01,claims,Initial jobless claims,311000,10
+2005-07-01,claims,Initial jobless claims,316000,10
+2005-08-01,claims,Initial jobless claims,318000,10
+2005-09-01,claims,Initial jobless claims,359000,10
+2005-10-01,claims,Initial jobless claims,322000,10
+2005-11-01,claims,Initial jobless claims,311000,10
+2005-12-01,claims,Initial jobless claims,302000,10
+2006-01-01,claims,Initial jobless claims,282000,10
+2006-02-01,claims,Initial jobless claims,293000,10
+2006-03-01,claims,Initial jobless claims,295000,10
+2006-04-01,claims,Initial jobless claims,321000,10
+2006-05-01,claims,Initial jobless claims,330000,10
+2006-06-01,claims,Initial jobless claims,309000,10
+2006-07-01,claims,Initial jobless claims,311000,10
+2006-08-01,claims,Initial jobless claims,314000,10
+2006-09-01,claims,Initial jobless claims,309000,10
+2006-10-01,claims,Initial jobless claims,328000,10
+2006-11-01,claims,Initial jobless claims,349000,10
+2006-12-01,claims,Initial jobless claims,341000,10
+2007-01-01,claims,Initial jobless claims,308000,10
+2007-02-01,claims,Initial jobless claims,322000,10
+2007-03-01,claims,Initial jobless claims,307000,10
+2007-04-01,claims,Initial jobless claims,301000,10
+2007-05-01,claims,Initial jobless claims,310000,10
+2007-06-01,claims,Initial jobless claims,317000,10
+2007-07-01,claims,Initial jobless claims,305000,10
+2007-08-01,claims,Initial jobless claims,329000,10
+2007-09-01,claims,Initial jobless claims,317000,10
+2007-10-01,claims,Initial jobless claims,328000,10
+2007-11-01,claims,Initial jobless claims,352000,10
+2007-12-01,claims,Initial jobless claims,360000,10
+2008-01-01,claims,Initial jobless claims,366000,10
+2008-02-01,claims,Initial jobless claims,354000,10
+2008-03-01,claims,Initial jobless claims,387000,10
+2008-04-01,claims,Initial jobless claims,370000,10
+2008-05-01,claims,Initial jobless claims,362000,10
+2008-06-01,claims,Initial jobless claims,392000,10
+2008-07-01,claims,Initial jobless claims,434000,10
+2008-08-01,claims,Initial jobless claims,442000,10
+2008-09-01,claims,Initial jobless claims,483000,10
+2008-10-01,claims,Initial jobless claims,480000,10
+2008-11-01,claims,Initial jobless claims,529000,10
+2008-12-01,claims,Initial jobless claims,533000,10
+2009-01-01,claims,Initial jobless claims,629000,10
+2009-02-01,claims,Initial jobless claims,652000,10
+2009-03-01,claims,Initial jobless claims,665000,10
+2009-04-01,claims,Initial jobless claims,620000,10
+2009-05-01,claims,Initial jobless claims,607000,10
+2009-06-01,claims,Initial jobless claims,594000,10
+2009-07-01,claims,Initial jobless claims,587000,10
+2009-08-01,claims,Initial jobless claims,564000,10
+2009-09-01,claims,Initial jobless claims,554000,10
+2009-10-01,claims,Initial jobless claims,522000,10
+2009-11-01,claims,Initial jobless claims,475000,10
+2009-12-01,claims,Initial jobless claims,468000,10
+2010-01-01,claims,Initial jobless claims,496000,10
+2010-02-01,claims,Initial jobless claims,488000,10
+2010-03-01,claims,Initial jobless claims,459000,10
+2010-04-01,claims,Initial jobless claims,449000,10
+2010-05-01,claims,Initial jobless claims,458000,10
+2010-06-01,claims,Initial jobless claims,464000,10
+2010-07-01,claims,Initial jobless claims,476000,10
+2010-08-01,claims,Initial jobless claims,467000,10
+2010-09-01,claims,Initial jobless claims,459000,10
+2010-10-01,claims,Initial jobless claims,453000,10
+2010-11-01,claims,Initial jobless claims,432000,10
+2010-12-01,claims,Initial jobless claims,404000,10
+2011-01-01,claims,Initial jobless claims,420000,10
+2011-02-01,claims,Initial jobless claims,385000,10
+2011-03-01,claims,Initial jobless claims,399000,10
+2011-04-01,claims,Initial jobless claims,468000,10
+2011-05-01,claims,Initial jobless claims,418000,10
+2011-06-01,claims,Initial jobless claims,421000,10
+2011-07-01,claims,Initial jobless claims,406000,10
+2011-08-01,claims,Initial jobless claims,409000,10
+2011-09-01,claims,Initial jobless claims,406000,10
+2011-10-01,claims,Initial jobless claims,399000,10
+2011-11-01,claims,Initial jobless claims,397000,10
+2011-12-01,claims,Initial jobless claims,376000,10
+2012-01-01,claims,Initial jobless claims,372000,10
+2012-02-01,claims,Initial jobless claims,365000,10
+2012-03-01,claims,Initial jobless claims,358000,10
+2012-04-01,claims,Initial jobless claims,372000,10
+2012-05-01,claims,Initial jobless claims,381000,10
+2012-06-01,claims,Initial jobless claims,372000,10
+2012-07-01,claims,Initial jobless claims,372000,10
+2012-08-01,claims,Initial jobless claims,377000,10
+2012-09-01,claims,Initial jobless claims,376000,10
+2012-10-01,claims,Initial jobless claims,364000,10
+2012-11-01,claims,Initial jobless claims,388000,10
+2012-12-01,claims,Initial jobless claims,362000,10
+2013-01-01,claims,Initial jobless claims,366000,10
+2013-02-01,claims,Initial jobless claims,342000,10
+2013-03-01,claims,Initial jobless claims,375000,10
+2013-04-01,claims,Initial jobless claims,331000,10
+2013-05-01,claims,Initial jobless claims,353000,10
+2013-06-01,claims,Initial jobless claims,340000,10
+2013-07-01,claims,Initial jobless claims,334000,10
+2013-08-01,claims,Initial jobless claims,325000,10
+2013-09-01,claims,Initial jobless claims,319000,10
+2013-10-01,claims,Initial jobless claims,347000,10
+2013-11-01,claims,Initial jobless claims,312000,10
+2013-12-01,claims,Initial jobless claims,332000,10
+2014-01-01,claims,Initial jobless claims,340000,10
+2014-02-01,claims,Initial jobless claims,341000,10
+2014-03-01,claims,Initial jobless claims,330000,10
+2014-04-01,claims,Initial jobless claims,345000,10
+2014-05-01,claims,Initial jobless claims,312000,10
+2014-06-01,claims,Initial jobless claims,308000,10
+2014-07-01,claims,Initial jobless claims,303000,10
+2014-08-01,claims,Initial jobless claims,303000,10
+2014-09-01,claims,Initial jobless claims,290000,10
+2014-10-01,claims,Initial jobless claims,291000,10
+2014-11-01,claims,Initial jobless claims,291000,10
+2014-12-01,claims,Initial jobless claims,285000,10
+2015-01-01,claims,Initial jobless claims,281000,10
+2015-02-01,claims,Initial jobless claims,317000,10
+2015-03-01,claims,Initial jobless claims,269000,10
+2015-04-01,claims,Initial jobless claims,269000,10
+2015-05-01,claims,Initial jobless claims,275000,10
+2015-06-01,claims,Initial jobless claims,275000,10
+2015-07-01,claims,Initial jobless claims,269000,10
+2015-08-01,claims,Initial jobless claims,279000,10
+2015-09-01,claims,Initial jobless claims,272000,10
+2015-10-01,claims,Initial jobless claims,275000,10
+2015-11-01,claims,Initial jobless claims,265000,10
+2015-12-01,claims,Initial jobless claims,276000,10
+2016-01-01,claims,Initial jobless claims,282000,10
+2016-02-01,claims,Initial jobless claims,269000,10
+2016-03-01,claims,Initial jobless claims,271000,10
+2016-04-01,claims,Initial jobless claims,278000,10
+2016-05-01,claims,Initial jobless claims,263000,10
+2016-06-01,claims,Initial jobless claims,262000,10
+2016-07-01,claims,Initial jobless claims,266000,10
+2016-08-01,claims,Initial jobless claims,261000,10
+2016-09-01,claims,Initial jobless claims,247000,10
+2016-10-01,claims,Initial jobless claims,265000,10
+2016-11-01,claims,Initial jobless claims,255000,10
+2016-12-01,claims,Initial jobless claims,244000,10
+2017-01-01,claims,Initial jobless claims,241000,10
+2017-02-01,claims,Initial jobless claims,221000,10
+2017-03-01,claims,Initial jobless claims,236000,10
+2017-04-01,claims,Initial jobless claims,232000,10
+2017-05-01,claims,Initial jobless claims,253000,10
+2017-06-01,claims,Initial jobless claims,247000,10
+2017-07-01,claims,Initial jobless claims,245000,10
+2017-08-01,claims,Initial jobless claims,247000,10
+2017-09-01,claims,Initial jobless claims,260000,10
+2017-10-01,claims,Initial jobless claims,241000,10
+2017-11-01,claims,Initial jobless claims,243000,10
+2017-12-01,claims,Initial jobless claims,248000,10
+2018-01-01,claims,Initial jobless claims,228000,10
+2018-02-01,claims,Initial jobless claims,216000,10
+2018-03-01,claims,Initial jobless claims,232000,10
+2018-04-01,claims,Initial jobless claims,209000,10
+2018-05-01,claims,Initial jobless claims,222000,10
+2018-06-01,claims,Initial jobless claims,228000,10
+2018-07-01,claims,Initial jobless claims,207000,10
+2018-08-01,claims,Initial jobless claims,211000,10
+2018-09-01,claims,Initial jobless claims,210000,10
+2018-10-01,claims,Initial jobless claims,216000,10
+2018-11-01,claims,Initial jobless claims,237000,10
+2018-12-01,claims,Initial jobless claims,238000,10
+2019-01-01,claims,Initial jobless claims,234000,10
+2019-02-01,claims,Initial jobless claims,221000,10
+2019-03-01,claims,Initial jobless claims,203000,10
+2019-04-01,claims,Initial jobless claims,224000,10
+2019-05-01,claims,Initial jobless claims,222000,10
+2019-06-01,claims,Initial jobless claims,226000,10
+2019-07-01,claims,Initial jobless claims,206000,10
+2019-08-01,claims,Initial jobless claims,215000,10
+2019-09-01,claims,Initial jobless claims,215000,10
+2019-10-01,claims,Initial jobless claims,215000,10
+2019-11-01,claims,Initial jobless claims,231000,10
+2019-12-01,claims,Initial jobless claims,231000,10
+2020-01-01,claims,Initial jobless claims,210000,10
+2020-02-01,claims,Initial jobless claims,215000,10
+2020-03-01,claims,Initial jobless claims,5946000,10
+2020-04-01,claims,Initial jobless claims,3446000,10
+2020-05-01,claims,Initial jobless claims,1639000,10
+2020-06-01,claims,Initial jobless claims,1446000,10
+2020-07-01,claims,Initial jobless claims,1260000,10
+2020-08-01,claims,Initial jobless claims,881000,10
+2020-09-01,claims,Initial jobless claims,795000,10
+2020-10-01,claims,Initial jobless claims,773000,10
+2020-11-01,claims,Initial jobless claims,737000,10
+2020-12-01,claims,Initial jobless claims,773000,10
+2021-01-01,claims,Initial jobless claims,803000,10
+2021-02-01,claims,Initial jobless claims,704000,10
+2021-03-01,claims,Initial jobless claims,658000,10
+2021-04-01,claims,Initial jobless claims,574000,10
+2021-05-01,claims,Initial jobless claims,427000,10
+2021-06-01,claims,Initial jobless claims,368000,10
+2021-07-01,claims,Initial jobless claims,379000,10
+2021-08-01,claims,Initial jobless claims,353000,10
+2021-09-01,claims,Initial jobless claims,375000,10
+2021-10-01,claims,Initial jobless claims,261000,10
+2021-11-01,claims,Initial jobless claims,221000,10
+2021-12-01,claims,Initial jobless claims,217000,10
+2022-01-01,claims,Initial jobless claims,231000,10
+2022-02-01,claims,Initial jobless claims,208000,10
+2022-03-01,claims,Initial jobless claims,214000,10
+2022-04-01,claims,Initial jobless claims,218000,10
+2022-05-01,claims,Initial jobless claims,199000,10
+2022-06-01,claims,Initial jobless claims,212000,10
+2022-07-01,claims,Initial jobless claims,228000,10
+2022-08-01,claims,Initial jobless claims,210000,10
+2022-09-01,claims,Initial jobless claims,190000,10
+2022-10-01,claims,Initial jobless claims,202000,10
+2022-11-01,claims,Initial jobless claims,209000,10
+2022-12-01,claims,Initial jobless claims,205000,10
+2023-01-01,claims,Initial jobless claims,200000,10
+2023-02-01,claims,Initial jobless claims,207000,10
+2023-03-01,claims,Initial jobless claims,234000,10
+2023-04-01,claims,Initial jobless claims,213000,10
+2023-05-01,claims,Initial jobless claims,229000,10
+2023-06-01,claims,Initial jobless claims,236000,10
+2023-07-01,claims,Initial jobless claims,238000,10
+2023-08-01,claims,Initial jobless claims,234000,10
+2023-09-01,claims,Initial jobless claims,216000,10
+2023-10-01,claims,Initial jobless claims,217000,10
+2023-11-01,claims,Initial jobless claims,213000,10
+2023-12-01,claims,Initial jobless claims,200000,10
+2024-01-01,claims,Initial jobless claims,226000,10
+2024-02-01,claims,Initial jobless claims,212000,10
+2024-03-01,claims,Initial jobless claims,223000,10
+2024-04-01,claims,Initial jobless claims,207000,10
+2024-05-01,claims,Initial jobless claims,220000,10
+2024-06-01,claims,Initial jobless claims,238000,10
+2024-07-01,claims,Initial jobless claims,248000,10
+2024-08-01,claims,Initial jobless claims,227000,10
+2024-09-01,claims,Initial jobless claims,227000,10
+2024-10-01,claims,Initial jobless claims,219000,10
+2024-11-01,claims,Initial jobless claims,222000,10
+2024-12-01,claims,Initial jobless claims,212000,10
+2025-01-01,claims,Initial jobless claims,212000,10
+2025-02-01,claims,Initial jobless claims,241000,10
+2025-03-01,claims,Initial jobless claims,220000,10
+2025-04-01,claims,Initial jobless claims,239000,10
+2025-05-01,claims,Initial jobless claims,244000,10
+2025-06-01,claims,Initial jobless claims,231000,10
+2025-07-01,claims,Initial jobless claims,219000,10
+2025-08-01,claims,Initial jobless claims,236000,10
+2025-09-01,claims,Initial jobless claims,225000,10
+2025-10-01,claims,Initial jobless claims,221000,10
+2025-11-01,claims,Initial jobless claims,216000,10
+2025-12-01,claims,Initial jobless claims,203000,10
+2026-01-01,claims,Initial jobless claims,230000,10
+2026-02-01,claims,Initial jobless claims,214000,10
+2026-03-01,claims,Initial jobless claims,203000,10
+2026-04-01,claims,Initial jobless claims,190000,10
+2026-05-01,claims,Initial jobless claims,225000,10
+2026-06-01,claims,Initial jobless claims,217000,10
+2026-07-01,claims,Initial jobless claims,198000,10
+2026-08-01,claims,Initial jobless claims,209000,10

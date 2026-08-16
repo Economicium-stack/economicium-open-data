@@ -1,0 +1,6 @@
+bank,country,currency,rate_name,rate_pct,as_of
+Federal Reserve,US,USD,Federal funds target range,3.75,2025-12-11
+European Central Bank,EU,EUR,Deposit facility rate,2.25,2026-06-17
+Bank of England,UK,GBP,Bank Rate,3.75,2025-12-18
+Bank of Canada,CA,CAD,Target for the overnight rate,2.25,2025-10-30
+Reserve Bank of Australia,AU,AUD,Cash rate target,4.35,2026-05-06
