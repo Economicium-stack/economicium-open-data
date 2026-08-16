@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.economicium/economicium",
+  "title": "Economicium",
+  "description": "Free trading and personal-finance calculators as MCP tools: position sizing, risk/reward, pip value, margin, compounding, RMD, I bonds, inflation and real wages. Computed from official public data. No API key, no signup, no rate limit.",
+  "version": "1.0.0",
+  "websiteUrl": "https://economicium.com/developers/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://economicium-mcp.economicium.workers.dev/mcp"
+    }
+  ]
+}
