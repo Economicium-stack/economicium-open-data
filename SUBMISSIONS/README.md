@@ -1,10 +1,10 @@
 # Submission pack
 
-Everything needed to list Economicium's open data and MCP server in third-party
-directories. Every requirement below was checked against the destination's own
-documentation on 2026-08-16, not assumed.
+Where to list Economicium's open data and MCP server, and one place we have
+decided not to. Every requirement below was checked against the destination's
+own documentation on 2026-08-16, not assumed.
 
-Ordered by effort-to-value. Do them in this order.
+Ordered by effort-to-value.
 
 ---
 
@@ -16,11 +16,11 @@ Ordered by effort-to-value. Do them in this order.
 and 32 `DataDownload` entries. Google Dataset Search reads that automatically.
 
 **Action:** resubmit the sitemap in Search Console so `/data/` gets crawled
-sooner. Nothing else. No form, no account, no waiting on a maintainer.
+sooner. Nothing else. No form, no account, no gatekeeper.
 
-This is the highest-value item on the page and the only one with zero friction.
-Its audience is academic, which is the same audience as the 18 library and
-university prospects in the outreach list.
+Highest value on this page and the only one with zero friction. Its audience is
+academic, the same audience as the library and university prospects in the
+outreach list.
 
 ---
 
@@ -34,13 +34,18 @@ POST https://economicium-mcp.economicium.workers.dev/mcp
   -> tools/list returns the calculator tools
 ```
 
+Both destinations below exist specifically so developers can list their own
+servers. The official registry authenticates you as the owner before it will
+accept an entry. Self-submission is the intended mechanism here, not a
+loophole, which is what separates these from item 3.
+
 ### 2a. mcpservers.org
 
-`wong2/awesome-mcp-servers` **does not accept pull requests**. Its README
-directs submissions to <https://mcpservers.org/submit>. That is a web form, so
-it is the fastest route and needs no packaging work.
+`wong2/awesome-mcp-servers` does **not** accept pull requests. Its README
+directs submissions to <https://mcpservers.org/submit>. A web form, so no
+packaging work.
 
-Suggested copy for the form:
+Suggested copy:
 
 > **Name:** Economicium
 > **URL:** https://economicium-mcp.economicium.workers.dev/mcp
@@ -51,79 +56,56 @@ Suggested copy for the form:
 
 ### 2b. Official registry (registry.modelcontextprotocol.io)
 
-Authoritative but has a real prerequisite. See `mcp-server.json` in this folder
-for the prepared entry.
+Prepared entry: `mcp-server.json` in this folder.
 
-**Blocker found:** publishing requires namespace authentication, and the
-namespace determines what else you need.
+**Blocker found.** Publishing requires namespace authentication, and the
+namespace decides what else is needed:
 
 - `io.github.Economicium-stack/...` authenticates via GitHub, but the
-  `repository` field must point at a **public** repo. `Economicium-stack/economicium`
-  is private, so it cannot be used as-is.
-- `com.economicium/...` authenticates by proving you control `economicium.com`
-  via a DNS TXT record. This avoids the private-repo problem entirely and is
-  probably the better route, since the namespace then matches the brand.
+  `repository` field must point at a **public** repo, and
+  `Economicium-stack/economicium` is private. Not usable as-is.
+- `com.economicium/...` authenticates by proving control of `economicium.com`
+  with a DNS TXT record. No repo required, and the namespace matches the brand.
 
-**Two ways forward, pick one:**
+The prepared entry uses the DNS route for that reason. If you would rather go
+the GitHub route, `worker/mcp-server/` is 340 lines, was scanned for secrets and
+is clean, so publishing it as its own public repo is safe and arguably reads as
+more trustworthy in a directory.
 
-1. **DNS route (recommended).** Add the TXT record the registry asks for, publish
-   under `com.economicium/economicium`. No new repo needed.
-2. **GitHub route.** Publish `worker/mcp-server/` as its own small public repo.
-   The source was scanned and contains no secrets or credentials, so this is safe.
-   340 lines, and an open-source MCP server reads as more trustworthy in a
-   directory than a closed one.
-
-**Also worth doing either way:** the public URL is a `workers.dev` subdomain.
-A custom domain such as `mcp.economicium.com` would look considerably more
+**Worth doing either way:** the public URL is a `workers.dev` subdomain. A
+custom domain such as `mcp.economicium.com` would look considerably more
 credible in a permanent public listing. That DNS record does not exist yet.
 
 ---
 
-## 3. Awesome Public Datasets
+## 3. Awesome Public Datasets: decided against
 
-**Do not PR the repo you would expect to.** `awesomedata/awesome-public-datasets`
-(78k stars) has an **auto-generated** README: its recent commits are all bot
-entries reading `Update README sha: ...`, and human PRs from June were still
-open in August. Submitting there means being ignored.
+**Decision, 2026-08-16: we are not submitting. Do not revive this.**
 
-Contributions go to **`awesomedata/apd-core`**, subtitled "Contribute new data
-here!", which is the source the README is generated from.
+The route itself was worked out and is not the obvious one. Contributions do
+**not** go to `awesomedata/awesome-public-datasets`, whose README is
+auto-generated (recent commits are all bot `Update README sha` entries, human
+PRs from June still open in August). They go to `awesomedata/apd-core`.
 
-**Process, from their CONTRIBUTING.md:**
+None of that matters, because of this, quoted verbatim from their CONTRIBUTING:
 
-```bash
-# fork awesomedata/apd-core, then
-git clone https://github.com/<you>/apd-core.git && cd apd-core
-cp ../economicium-open-data/SUBMISSIONS/apd-core-Economicium-Open-Data.yml \
-   core/Economics/Economicium-Open-Data.yml
-pip install -r tests/requirements.txt
-./tests/testing.sh          # must pass before opening the PR
-```
+> No advertisement! No Spam! No reputation promotion!
 
-Only `title`, `homepage` and `category` are validated, and `category` must match
-the folder name exactly (`Economics`). The prepared file fills the optional
-fields too.
+Our reason for wanting the listing was distribution and backlinks. That is
+reputation promotion by their own definition, whatever the dataset's merits, and
+the fact that their Economics folder already contains many company-published
+indexes is not a justification for adding another.
 
-### Two things to weigh first
+The prepared entry has been deleted rather than left here to be found and filed
+later.
 
-**Their policy says, verbatim: "No advertisement! No Spam! No reputation
-promotion!"** Submitting your own project to earn links is what that rule
-forbids. In practice the Economics folder's 53 entries include plenty of
-company-published indexes, so enforcement is loose. Submit because the dataset is
-genuinely useful to someone doing economics research, and let that be true. The
-prepared description is deliberately modest and leads with the sources rather
-than the brand.
+**If someone else** finds these datasets genuinely useful and submits them, that
+is legitimate and outside our control. We simply should not be the ones filing
+it.
 
-**Timing:** both repos carry the notice "Primary maintainer on vacation until
-Aug 24. Pull requests will be viewed upon my return." Nothing merges before then.
-
-### What this is actually worth
-
-GitHub applies `rel="nofollow"` to links in README markdown, so a merged entry
-passes **no link equity**. The value is humans finding the repo, and some of them
-citing the datasets from their own sites, where the links do count. That is a
-slower and less certain mechanism than a direct backlink, and worth being honest
-about before spending effort on it.
+**A second reason it was a poor target anyway:** GitHub applies `rel="nofollow"`
+to links in README markdown, so a merged entry passes no link equity at all. The
+only value would have been human discovery. Small upside, real rule against it.
 
 ---
 
@@ -131,5 +113,4 @@ about before spending effort on it.
 
 | File | For |
 |---|---|
-| `apd-core-Economicium-Open-Data.yml` | Awesome Public Datasets, via apd-core |
-| `mcp-server.json` | Official MCP registry |
+| `mcp-server.json` | Official MCP registry, DNS namespace route |
