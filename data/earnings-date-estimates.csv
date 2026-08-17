@@ -1,5 +1,4 @@
 date,symbol,title,country,impact,basis
-2026-08-12,CSCO,Cisco Systems Inc. (CSCO) earnings (estimated),United States,medium,"Estimated from 24 historical quarterly filings, ~91-day cadence, last actual report 2026-05-13."
 2026-08-18,HD,Home Depot Inc. (HD) earnings (estimated),United States,medium,"Estimated from 31 historical quarterly filings, ~91-day cadence, last actual report 2026-05-19."
 2026-08-19,NVDA,Nvidia Corp (NVDA) earnings (estimated),United States,high,"Estimated from 23 historical quarterly filings, ~91-day cadence, last actual report 2026-05-20."
 2026-08-20,WMT,Walmart Inc. (WMT) earnings (estimated),United States,medium,"Estimated from 12 historical quarterly filings, ~91-day cadence, last actual report 2026-05-21."
@@ -42,7 +41,7 @@ date,symbol,title,country,impact,basis
 2026-11-03,MCD,McDonald's Corp (MCD) earnings (estimated),United States,medium,"Estimated from 35 historical quarterly filings, ~91-day cadence, last actual report 2026-08-04."
 2026-11-04,DIS,Walt Disney Co (DIS) earnings (estimated),United States,medium,"Estimated from 26 historical quarterly filings, ~91-day cadence, last actual report 2026-08-05."
 2026-11-04,UBER,Uber Technologies Inc (UBER) earnings (estimated),United States,medium,"Estimated from 23 historical quarterly filings, ~91-day cadence, last actual report 2026-08-05."
-2026-11-11,CSCO,Cisco Systems Inc. (CSCO) earnings (estimated),United States,medium,"Estimated from 24 historical quarterly filings, ~91-day cadence, last actual report 2026-05-13."
+2026-11-11,CSCO,Cisco Systems Inc. (CSCO) earnings (estimated),United States,medium,"Estimated from 25 historical quarterly filings, ~91-day cadence, last actual report 2026-08-12."
 2026-11-12,COST,Costco Wholesale Corp (COST) earnings (estimated),United States,medium,"Estimated from 26 historical quarterly filings, ~84-day cadence, last actual report 2026-05-28."
 2026-11-17,HD,Home Depot Inc. (HD) earnings (estimated),United States,medium,"Estimated from 31 historical quarterly filings, ~91-day cadence, last actual report 2026-05-19."
 2026-11-18,NVDA,Nvidia Corp (NVDA) earnings (estimated),United States,high,"Estimated from 23 historical quarterly filings, ~91-day cadence, last actual report 2026-05-20."
@@ -84,3 +83,4 @@ date,symbol,title,country,impact,basis
 2027-02-02,MCD,McDonald's Corp (MCD) earnings (estimated),United States,medium,"Estimated from 35 historical quarterly filings, ~91-day cadence, last actual report 2026-08-04."
 2027-02-03,DIS,Walt Disney Co (DIS) earnings (estimated),United States,medium,"Estimated from 26 historical quarterly filings, ~91-day cadence, last actual report 2026-08-05."
 2027-02-03,UBER,Uber Technologies Inc (UBER) earnings (estimated),United States,medium,"Estimated from 23 historical quarterly filings, ~91-day cadence, last actual report 2026-08-05."
+2027-02-10,CSCO,Cisco Systems Inc. (CSCO) earnings (estimated),United States,medium,"Estimated from 25 historical quarterly filings, ~91-day cadence, last actual report 2026-08-12."
