@@ -1,11 +1,4 @@
 date,time_utc,title,country,impact
-2026-08-17,12:30,Canada CPI (Consumer Price Index),Canada,high
-2026-08-18,12:30,US Housing Starts (New Residential Construction),United States,medium
-2026-08-18,13:15,US Industrial Production,United States,medium
-2026-08-19,01:30,Australia Wage Price Index,Australia,medium
-2026-08-20,01:30,Australia Labour Force (Employment),Australia,high
-2026-08-20,12:30,US Initial Jobless Claims,United States,high
-2026-08-20,23:30,Japan CPI (National),Japan,high
 2026-08-25,12:30,US Housing Starts (New Residential Construction),United States,medium
 2026-08-25,14:00,US New Home Sales,United States,medium
 2026-08-26,01:30,Australia CPI (Consumer Price Index),Australia,high
