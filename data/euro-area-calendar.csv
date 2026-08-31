@@ -1,5 +1,4 @@
 date,time_utc,title,country,impact
-2026-08-28,09:00,Euro Area: Economic Sentiment,Euro Area,medium
 2026-09-01,09:00,Euro Area: HICP Flash Inflation,Euro Area,high
 2026-09-01,09:00,Euro Area: Unemployment,Euro Area,high
 2026-09-02,09:00,Euro Area: Building Permits,Euro Area,low
@@ -11,3 +10,8 @@ date,time_utc,title,country,impact
 2026-09-16,09:00,Euro Area: Industrial Production,Euro Area,medium
 2026-09-17,09:00,Euro Area: HICP Inflation,Euro Area,high
 2026-09-18,09:00,Euro Area: Construction Output,Euro Area,low
+2026-09-29,09:00,Euro Area: Economic Sentiment,Euro Area,medium
+2026-10-01,09:00,Euro Area: Unemployment,Euro Area,high
+2026-10-02,09:00,Euro Area: HICP Flash Inflation,Euro Area,high
+2026-10-02,09:00,Euro Area: Building Permits,Euro Area,low
+2026-10-05,09:00,Euro Area: Producer Prices (PPI),Euro Area,medium

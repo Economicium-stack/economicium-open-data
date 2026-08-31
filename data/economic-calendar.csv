@@ -1,15 +1,4 @@
 date,time_utc,title,country,impact
-2026-08-25,12:30,US Housing Starts (New Residential Construction),United States,medium
-2026-08-25,14:00,US New Home Sales,United States,medium
-2026-08-26,01:30,Australia CPI (Consumer Price Index),Australia,high
-2026-08-26,12:30,US GDP (Gross Domestic Product),United States,high
-2026-08-26,12:30,US PCE Inflation (Personal Income and Outlays),United States,high
-2026-08-27,12:30,US Initial Jobless Claims,United States,high
-2026-08-27,23:30,"Japan CPI (Tokyo, advance)",Japan,medium
-2026-08-28,07:00,Spain: Retail Trade Indices. July 2026,Spain,medium
-2026-08-28,07:00,Spain: Consumer Price Index. Avance. Agosto 2026,Spain,high
-2026-08-28,08:00,Germany Unemployment (Federal Employment Agency),Germany,medium
-2026-08-28,12:30,Canada GDP,Canada,high
 2026-09-01,14:00,US JOLTS Job Openings,United States,medium
 2026-09-02,02:00,RBNZ Rate Decision (OCR),New Zealand,high
 2026-09-02,13:45,BoC Rate Decision,Canada,high
