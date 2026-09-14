@@ -1,5 +1,4 @@
 date,time_utc,title,country,impact
-2026-09-07,09:00,Euro Area: Services Production,Euro Area,low
 2026-09-15,09:00,Euro Area: International Trade in Goods,Euro Area,low
 2026-09-16,09:00,Euro Area: Industrial Production,Euro Area,medium
 2026-09-17,09:00,Euro Area: HICP Inflation,Euro Area,high
@@ -12,3 +11,6 @@ date,time_utc,title,country,impact
 2026-10-06,09:00,Euro Area: Retail Trade,Euro Area,medium
 2026-10-06,09:00,Euro Area: Producer Prices (PPI),Euro Area,medium
 2026-10-07,09:00,Euro Area: Services Production,Euro Area,low
+2026-10-15,09:00,Euro Area: Industrial Production,Euro Area,medium
+2026-10-16,09:00,Euro Area: HICP Inflation,Euro Area,high
+2026-10-16,09:00,Euro Area: International Trade in Goods,Euro Area,low

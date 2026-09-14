@@ -1,11 +1,4 @@
 date,time_utc,title,country,impact
-2026-09-07,23:50,Japan GDP (Second Preliminary),Japan,medium
-2026-09-08,19:00,US Consumer Credit (G.19),United States,low
-2026-09-10,07:00,Spain: Industrial Production Index. July 2026,Spain,medium
-2026-09-10,12:15,ECB Rate Decision,Euro Area,high
-2026-09-10,12:30,US PPI (Producer Price Index),United States,medium
-2026-09-10,12:30,US Initial Jobless Claims,United States,high
-2026-09-11,12:30,US CPI (Consumer Price Index),United States,high
 2026-09-14,12:30,Canada CPI (Consumer Price Index),Canada,high
 2026-09-15,07:00,Spain: Consumer Price Index. August 2026,Spain,high
 2026-09-16,12:30,US Retail Sales,United States,high
@@ -202,3 +195,6 @@ date,time_utc,title,country,impact
 2027-10-28,12:15,ECB Rate Decision,Euro Area,high
 2027-11-02,03:30,RBA Rate Decision,Australia,high
 2027-11-04,12:00,BoE Rate Decision (Bank Rate),United Kingdom,high
+2027-12-08,01:00,RBNZ Rate Decision (OCR),New Zealand,high
+2027-12-08,14:45,BoC Rate Decision,Canada,high
+2027-12-08,19:00,FOMC Rate Decision,United States,high
