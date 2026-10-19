@@ -1,12 +1,4 @@
 date,time_utc,title,country,impact
-2026-10-14,07:00,Spain: Consumer Price Index. September 2026,Spain,high
-2026-10-14,12:30,US CPI (Consumer Price Index),United States,high
-2026-10-15,00:30,Australia Labour Force (Employment),Australia,high
-2026-10-15,12:30,US PPI (Producer Price Index),United States,medium
-2026-10-15,12:30,US Initial Jobless Claims,United States,high
-2026-10-15,12:30,US Retail Sales,United States,high
-2026-10-15,14:00,US Business Inventories,United States,low
-2026-10-16,13:15,US Industrial Production,United States,medium
 2026-10-19,12:30,Canada CPI (Consumer Price Index),Canada,high
 2026-10-20,12:30,US Housing Starts (New Residential Construction),United States,medium
 2026-10-22,12:30,US Initial Jobless Claims,United States,high
