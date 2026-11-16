@@ -1,7 +1,4 @@
 date,time_utc,title,country,impact
-2026-11-09,10:00,Euro Area: Services Production,Euro Area,low
-2026-11-13,10:00,Euro Area: GDP Flash Estimate,Euro Area,high
-2026-11-13,10:00,Euro Area: International Trade in Goods,Euro Area,low
 2026-11-16,10:00,Euro Area: Industrial Production,Euro Area,medium
 2026-11-18,10:00,Euro Area: HICP Inflation,Euro Area,high
 2026-11-19,10:00,Euro Area: Construction Output,Euro Area,low
@@ -15,3 +12,7 @@ date,time_utc,title,country,impact
 2026-12-04,10:00,Euro Area: Retail Trade,Euro Area,medium
 2026-12-04,10:00,Euro Area: Producer Prices (PPI),Euro Area,medium
 2026-12-07,10:00,Euro Area: Services Production,Euro Area,low
+2026-12-15,10:00,Euro Area: Industrial Production,Euro Area,medium
+2026-12-16,10:00,Euro Area: International Trade in Goods,Euro Area,low
+2026-12-17,10:00,Euro Area: HICP Inflation,Euro Area,high
+2026-12-18,10:00,Euro Area: Construction Output,Euro Area,low
